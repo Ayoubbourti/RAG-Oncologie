@@ -1,0 +1,2252 @@
+[
+  {
+    "text": "[Cancer du poumon à petites cellules] definition: Le cancer du poumon à petites cellules (CPPC) est un carcinome neuroendocrine de haut grade provenant des cellules neuroendocrines pulmonaires, caractérisé par une croissance rapide, une dissémination précoce, une chimiosensibilité initiale élevée, mais une chimiorésistance et des rechutes fréquentes. Il représente 10 à 15 % de tous les cancers du poumon mais une mortalité disproportionnée en raison de sa biologie agressive. Histologiquement, il se compose de petites cellules rondes à fusiformes",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "SCLC_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] protocol: Protocole: CPPC de stade limité - Chimioradiothérapie concomitante | Médicaments: [{'drug_name': 'Cisplatine + Étposide (PE)', 'dose': 'Cisplatine 80 mg/m² Jour 1 + Étposide 100 mg/m² IV Jours 1-3, toutes les 21 jours', 'route': 'IV', 'frequency': 'Toutes les 21 jours × 4-6 cycles'}, {'drug_name': 'Carboplatine + Étposide (CE)', 'dose': 'Carboplatine AUC 5-6 Jour 1 + Étposide 100 mg/m² IV Jours 1-3, toutes les 21 jours', 'route': 'IV', 'frequency': 'Toutes les 21 jours × 4-6 cycles', 'note': 'Pr",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "SCLC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] protocol: Protocole: CPPC de stade étendu - Chimio-immunothérapie de première ligne | Médicaments: [{'drug_name': 'Carboplatine + Étposide + Atézolizumab', 'dose': 'Carboplatine AUC 5-6 Jour 1 + Étposide 100 mg/m² IV Jours 1-3 + Atézolizumab 1200 mg IV Jour 1, toutes les 21 jours', 'route': 'IV', 'frequency': \"Toutes les 21 jours × 4 cycles, puis atezolizumab d'entretien\", 'note': 'Régime IMpower133'}, {'drug_name': 'Platine + Étposide + Durvalumab', 'dose': 'Platine (carboplatine AUC 5-6 ou cisplatine 80",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "SCLC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] protocol: Protocole: CPPC récidivant sensible au platine (Récidive >90 jours) | Médicaments: [{'drug_name': 'Carboplatine + Étposide (Réexposition)', 'dose': 'Carboplatine AUC 5-6 Jour 1 + Étposide 100 mg/m² IV Jours 1-3, toutes les 21 jours', 'route': 'IV', 'frequency': 'Toutes les 21 jours × 4-6 cycles'}, {'drug_name': 'Topotécan', 'dose': '1,5 mg/m² IV Jours 1-5, toutes les 21 jours OU 2,3 mg/m² oral Jours 1-5, toutes les 21 jours', 'route': 'IV ou Oral', 'frequency': \"Toutes les 21 jours jusqu'à progr",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "SCLC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] protocol: Protocole: CPPC résistant ou réfractaire au platine (Récidive ≤90 jours) | Médicaments: [{'drug_name': 'Lurbinectédine', 'dose': '3,2 mg/m² IV Jour 1, toutes les 21 jours', 'route': 'IV', 'frequency': \"Toutes les 21 jours jusqu'à progression\", 'note': 'TRO 22 % dans la maladie résistante'}, {'drug_name': 'CAV (Cyclophosphamide + Doxorubicine + Vincristine)', 'dose': 'Cyclophosphamide 1000 mg/m² + Doxorubicine 50 mg/m² + Vincristine 1,4 mg/m² (max 2 mg) Jour 1, toutes les 21 jours', 'route': 'IV'",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "SCLC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] protocol: Protocole: Irradiation crânienne prophylactique pour stade limité | Médicaments: []",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "SCLC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] metastasis: {\"document_id\": \"SCLC_METASTASES\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}], \"metastatic_profiles\": [{\"primary_cancer\": \"Cancer du poumon à petites cellules\", \"metastatic_site\": \"Cerveau\", \"frequency\": \"50 % au diagnostic ; 80 % à ",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "SCLC_METASTASES"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] pathology: {\"document_id\": \"SCLC_PATHOLOGY_HISTOPATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours of the Lung, 5th Edition\", \"organization\": \"OMS\", \"year\": 2021}, {\"source\": \"Guide des Protocoles Thérapeutiques - BMO 2024\", \"organization\": \"AMFROM\", \"pages\": \"165-167\", \"year\": 2024}], \"pathology_profiles\": [{\"cancer_type\": \"Carcinome à petites cellules\", \"h",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "SCLC_PATHOLOGY_HISTOPATHOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] resistance_mechanism: {\"document_id\": \"SCLC_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Precision Oncology Recommendations\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Clinical Oncology\", \"organization\": \"Nature\", \"year\": 2024}], \"resistance_profiles\": [{\"drug_",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "SCLC_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] staging_system: {\"document_id\": \"SCLC_STAGING_SYSTEMS\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"Veterans Administration Lung Study Group (VALSG)\", \"organization\": \"VALSG\", \"year\": 1957}, {\"source\": \"RECIST 1.1 Guidelines\", \"organization\": \"EORTC\", \"year\": 2021}], \"staging_systems\": [{\"cancer_type\":",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "SCLC_STAGING_SYSTEMS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] oncology_score: {\"document_id\": \"SCLC_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}], \"oncology_scores\": [{\"score_name\": \"Stade VALSG (SL vs SE)\", \"purpose\": \"Déterminer l'approche thérapeutique (curative vs palliative) et le prono",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "SCLC_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] followup: {\"document_id\": \"SCLC_FOLLOWUP_MONITORING\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"GCIG (Gynecologic Cancer InterGroup) adapted for SCLC\", \"organization\": \"GCIG\", \"year\": 2023}], \"followup_protocols\": [{\"cancer_type\": \"",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "SCLC_FOLLOWUP_MONITORING"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] contraindication_interaction: {\"document_id\": \"SCLC_CONTRAINDICATIONS_INTERACTIONS\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Safety Information\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}], \"drug_safety_profiles\": [{\"drug_name\": \"Étoposide\", \"contraindications\": [\"Myélosuppression sévère (PNN <500, plaqu",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "SCLC_CONTRAINDICATIONS_INTERACTIONS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] toxicity_management: {\"document_id\": \"SCLC_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"CTCAE v5.0\", \"organization\": \"NCI\", \"year\": 2023}, {\"source\": \"ASCO Guidelines for Management of Immunotherapy Toxicities\", \"organization\": \"ASCO\", \"year\": 2024}], \"toxicity_profiles\": [{\"toxicity_name\": ",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "SCLC_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] palliative_care: {\"document_id\": \"SCLC_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ASCO Palliative Care Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}, {\"source\": \"ESMO Palliative Care Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Cancer Pain Ladder\", \"organization\": \"OMS\", \"year\": 2023}], \"symptom_management_profiles\": [{\"symptom_name\": \"Métastases",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "SCLC_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] biomarker_genetics: {\"document_id\": \"SCLC_BIOMARKERS_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}], \"biomarker_profiles\": [{\"marker_name\": \"Mutations RB1 et TP53\", \"associated_cancers\": \"CPPC (quasi universel >90 %)\", \"mutation_types\": \"",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "SCLC_BIOMARKERS_GENETICS"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] medical_literature: {\"document_id\": \"SCLC_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"Lancet\", \"organization\": \"Lancet\"}, {\"source\": \"Lancet Oncology\", \"organization\": \"Lancet\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}], \"literature_evidence\": [{\"title\": \"Atézolizumab plus ch",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "SCLC_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] clinical_reasoning: {\"document_id\": \"SCLC_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"IMpower133 Trial\", \"organization\": \"NEJM\", \"year\": 2018}], \"clinical_reasoning_cases\": [{\"clinical_situation\": {\"patient_profil",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "SCLC_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] diagnostic_guideline: {\"document_id\": \"SCLC_DIAGNOSTIC_GUIDELINES\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"ACR Appropriateness Criteria - Lung Cancer Screening\", \"organization\": \"ACR\", \"year\": 2024}], \"diagnostic_guidelines\": [{\"",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "SCLC_DIAGNOSTIC_GUIDELINES"
+    }
+  },
+  {
+    "text": "[Cancer du poumon à petites cellules] oncology_emergency: {\"document_id\": \"SCLC_ONCOLOGY_EMERGENCY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ESMO SCLC Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"NCCN SCLC Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ASCO Emergency Oncology Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}], \"oncology_emergencies\": [{\"emergency_name\": \"Syndr",
+    "metadata": {
+      "cancer": "Cancer du poumon à petites cellules",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "SCLC_ONCOLOGY_EMERGENCY"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] definition: Les gliomes de haut grade (HGG) sont des tumeurs primitives du système nerveux central de grade OMS III et IV, issues des cellules gliales, caractérisées par une croissance rapide, une infiltration diffuse et un mauvais pronostic. Le glioblastome (grade IV) est le plus fréquent et le plus agressif. Les principaux marqueurs moléculaires (IDH, 1p/19q, MGMT, TERT) définissent des entités cliniquement distinctes.",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "HGG_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] protocol: Protocole: Glioblastome (Grade OMS IV) - Régime de Stupp | Médicaments: [{'drug_name': 'Témozolomide (Concomitant)', 'dose': '75 mg/m² par jour', 'route': 'Oral', 'frequency': 'Quotidien pendant 42 jours'}, {'drug_name': 'Témozolomide (Adjuvant)', 'dose': '150→200 mg/m² Jours 1-5', 'route': 'Oral', 'frequency': 'Toutes les 4 semaines ×6-12 cycles'}, {'drug_name': 'Radiothérapie', 'dose': '60 Gy en 30 fractions', 'fields': 'GTV + marge de 2-3 cm'}]",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "HGG_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] protocol: Protocole: Glioblastome du sujet âgé (>70 ans) - Radiothérapie hypofractionnée | Médicaments: [{'drug_name': 'Radiothérapie hypofractionnée', 'dose': '40 Gy en 15 fractions'}]",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "HGG_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] protocol: Protocole: Oligodendrogliome anaplasique (Grade III) - PCV adjuvant | Médicaments: [{'drug_name': 'Régime PCV', 'dose': 'Procarbazine 60 mg/m² Jours 8-21 + CCNU 110 mg/m² Jour 1 + Vincristine 1,4 mg/m² Jours 8,29', 'route': 'Oral + IV', 'frequency': 'Toutes les 6 semaines ×6 cycles'}]",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "HGG_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] protocol: Protocole: Astrocytome anaplasique (Grade III, IDH muté) - Témozolomide adjuvant | Médicaments: [{'drug_name': 'Témozolomide', 'dose': '150-200 mg/m² Jours 1-5', 'route': 'Oral', 'frequency': 'Toutes les 4 semaines ×6-12 cycles'}]",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "HGG_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] protocol: Protocole: Glioblastome récidivant - Traitement de deuxième ligne | Médicaments: [{'drug_name': 'Bévacizumab', 'dose': '10 mg/kg IV', 'route': 'IV', 'frequency': 'Toutes les 2 semaines'}, {'drug_name': 'Lomustine (CCNU)', 'dose': '110-130 mg/m²', 'route': 'Oral', 'frequency': 'Toutes les 6 semaines'}, {'drug_name': 'Réexposition au témozolomide', 'dose': '150-200 mg/m² Jours 1-5', 'route': 'Oral', 'frequency': 'Toutes les 4 semaines'}]",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "HGG_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] metastasis: {\"document_id\": \"HGG_METASTASES\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Glioma Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}], \"metastatic_profiles\": [{\"primary_cancer\": \"Gliome de haut grade\", \"metastatic_site\": \"Récidive locale\", \"frequency\": \">90% des récidives\", \"patterns_of_s",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "HGG_METASTASES"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] pathology: {\"document_id\": \"HGG_PATHOLOGY_HISTOPATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours of the Central Nervous System, 5th Edition\", \"organization\": \"OMS\", \"year\": 2021}, {\"source\": \"Guide des Protocoles Thérapeutiques - BMO 2024\", \"organization\": \"AMFROM\", \"pages\": \"259-264\", \"year\": 2024}], \"pathology_profiles\": [{\"cancer_type\": \"Glioblastome\", \"",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "HGG_PATHOLOGY_HISTOPATHOLOGY"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] resistance_mechanism: {\"document_id\": \"HGG_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Precision Oncology Recommendations\", \"organization\": \"ESMO\", \"year\": 2024}], \"resistance_profiles\": [{\"drug_name\": \"Témozolomide (Agent alkylant)\", \"resistance_type\": \"Résistance acquise ou intrinsè",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "HGG_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] staging_system: {\"document_id\": \"HGG_STAGING_SYSTEMS\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours of the Central Nervous System, 5th Edition\", \"organization\": \"OMS\", \"year\": 2021}, {\"source\": \"RANO Criteria (Response Assessment in Neuro-Oncology)\", \"organization\": \"RANO\", \"year\": 2010}, {\"source\": \"iRANO Criteria (Immunotherapy RANO)\", \"organization\": \"RANO\", \"y",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "HGG_STAGING_SYSTEMS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] oncology_score: {\"document_id\": \"HGG_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EANO Guidelines for Glioblastoma\", \"organization\": \"EANO\", \"year\": 2024}], \"oncology_scores\": [{\"score_name\": \"ECOG Performance Status\", \"purpose\": \"Évaluer l'aptitude du patient au traitement et prédire le pronosti",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "HGG_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] followup: {\"document_id\": \"HGG_FOLLOWUP_MONITORING\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EANO Guidelines for Glioblastoma\", \"organization\": \"EANO\", \"year\": 2024}, {\"source\": \"RANO Criteria\", \"organization\": \"RANO\", \"year\": 2010}], \"followup_protocols\": [{\"cancer_type\": \"Gliomes de haut grade\", \"stage\": \"T",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "HGG_FOLLOWUP_MONITORING"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] contraindication_interaction: {\"document_id\": \"HGG_CONTRAINDICATIONS_INTERACTIONS\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Safety Information\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}], \"drug_safety_profiles\": [{\"drug_name\": \"Témozolomide\", \"contraindications\": [\"Myélosuppression sévère (PNN <1500, pla",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "HGG_CONTRAINDICATIONS_INTERACTIONS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] toxicity_management: {\"document_id\": \"HGG_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"CTCAE v5.0\", \"organization\": \"NCI\", \"year\": 2023}], \"toxicity_profiles\": [{\"toxicity_name\": \"Myélosuppression (Neutropénie, Thrombocytopénie, Lymphopénie)\", \"causing_drugs\": [\"Témozolomide (le plus fréquent",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "HGG_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] palliative_care: {\"document_id\": \"HGG_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ASCO Palliative Care Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}, {\"source\": \"ESMO Palliative Care Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Cancer Pain Ladder\", \"organization\": \"OMS\", \"year\": 2023}], \"symptom_management_profiles\": [{\"symptom_name\": \"Œdème céréb",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "HGG_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] biomarker_genetics: {\"document_id\": \"HGG_BIOMARKERS_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Glioma Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Classification of CNS Tumours, 5th Edition\", \"organization\": \"OMS\", \"year\": 2021}], \"biomarker_profiles\": [{\"marker_name\":",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "HGG_BIOMARKERS_GENETICS"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] medical_literature: {\"document_id\": \"HGG_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"Lancet Oncology\", \"organization\": \"Lancet\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}], \"literature_evidence\": [{\"title\": \"Radiothérapie plus témozolomide concomitant et adjuvant pour le gliob",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "HGG_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] clinical_reasoning: {\"document_id\": \"HGG_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"Stupp Trial - RT + TMZ for Glioblastoma\", \"organization\": \"NEJM\", \"year\": 2005}, {\"source\": \"RTOG 9402 - RT + PCV for Oligodendroglioma\", \"organization\": \"JCO\", \"year\": 2013}], \"clinical_reasoning_cases\": [{\"",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "HGG_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] diagnostic_guideline: {\"document_id\": \"HGG_DIAGNOSTIC_GUIDELINES\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Glioma Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"EANO Guidelines for Glioblastoma\", \"organization\": \"EANO\", \"year\": 2024}], \"diagnostic_guidelines\": [{\"cancer_type\": \"Glio",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "HGG_DIAGNOSTIC_GUIDELINES"
+    }
+  },
+  {
+    "text": "[Gliomes de haut grade] oncology_emergency: {\"document_id\": \"HGG_ONCOLOGY_EMERGENCY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ESMO Glioma Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"NCCN CNS Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ASCO Emergency Oncology Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}], \"oncology_emergencies\": [{\"emergency_name\": \"Engag",
+    "metadata": {
+      "cancer": "Gliomes de haut grade",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "HGG_ONCOLOGY_EMERGENCY"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] definition: Le cancer épithélial de l'ovaire (CEO) est un groupe hétérogène de tumeurs malignes provenant de l'épithélium de surface de l'ovaire ou de l'épithélium de la trompe de Fallope (carcinogenèse séreuse). Ces tumeurs diffèrent par leur pathogenèse moléculaire, leur histologie, leur mode métastatique (dissémination péritonéale transcoelomique), leur chimiosensibilité et leur pronostic. La déficience de recombinaison homologue, en particulier les mutations BRCA1/2, est un moteur clé dans le HGSC et co",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "OVARIAN_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] protocol: Protocole: Chimiothérapie adjuvante du cancer de l'ovaire de stade précoce (Stade I-IIA) | Médicaments: [{'drug_name': 'Carboplatine + Paclitaxel', 'dose': 'Carboplatine AUC 5-6 + Paclitaxel 175 mg/m² Jour 1, toutes les 21 jours', 'route': 'IV', 'frequency': 'Toutes les 21 jours × 6 cycles'}]",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "OVARIAN_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] protocol: Protocole: Traitement primaire des stades avancés (Stade III-IV) | Médicaments: [{'drug_name': 'Carboplatine + Paclitaxel', 'dose': 'Carboplatine AUC 5-6 + Paclitaxel 175 mg/m² Jour 1, toutes les 21 jours', 'route': 'IV', 'frequency': 'Toutes les 21 jours × 6 cycles'}, {'drug_name': 'Bevacizumab', 'dose': '7,5 mg/kg ou 15 mg/kg Jour 1, toutes les 21 jours', 'route': 'IV', 'frequency': \"Concomitant puis entretien jusqu'à 15 mois\"}, {'drug_name': 'Olaparib en entretien', 'dose': '300 mg deux fois ",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "OVARIAN_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] protocol: Protocole: Cancer de l'ovaire récidivant sensible au platine | Médicaments: [{'drug_name': 'Carboplatine + Gemcitabine', 'dose': 'Carboplatine AUC 4 + Gemcitabine 1000 mg/m² Jours 1, 8, toutes les 21 jours'}, {'drug_name': 'Carboplatine + PLD', 'dose': 'Carboplatine AUC 5 + PLD 30 mg/m² Jour 1, toutes les 28 jours'}]",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "OVARIAN_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] protocol: Protocole: Cancer de l'ovaire récidivant résistant au platine | Médicaments: [{'drug_name': 'Paclitaxel hebdomadaire', 'dose': '80 mg/m² Jours 1, 8, 15, toutes les 28 jours'}, {'drug_name': 'Doxorubicine liposomale pégylée (PLD)', 'dose': '40 mg/m² Jour 1, toutes les 28 jours'}, {'drug_name': 'Mirvetuximab Soravtansine', 'dose': '6 mg/kg Jour 1, toutes les 21 jours', 'indication': 'FRα-positif'}]",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "OVARIAN_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] protocol: Protocole: Entretien par inhibiteur de PARP après traitement de première ligne | Médicaments: [{'drug_name': 'Olaparib en monothérapie', 'dose': '300 mg BID', 'indication': 'Muté BRCA', 'efficacy': 'SSP à 5 ans 48% vs 21%'}, {'drug_name': 'Olaparib + Bevacizumab', 'dose': 'Olaparib 300 mg BID + Bevacizumab 15 mg/kg', 'indication': 'HRD+', 'efficacy': 'SSP 37,2 vs 17,7 mois'}, {'drug_name': 'Niraparib en monothérapie', 'dose': '200-300 mg par jour', 'indication': 'HRD+', 'efficacy': 'SSP 21,9 vs ",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "OVARIAN_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] metastasis: {\"document_id\": \"OVARIAN_METASTASES\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}], \"metastatic_profiles\": [{\"primary_cance",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "OVARIAN_METASTASES"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] pathology: {\"document_id\": \"OVARIAN_PATHOLOGY_HISTOPATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours of Female Reproductive Organs, 5th Edition\", \"organization\": \"OMS\", \"year\": 2020}, {\"source\": \"Guide des Protocoles Thérapeutiques - BMO 2024\", \"organization\": \"AMFROM\", \"pages\": \"57-65\", \"year\": 2024}], \"pathology_profiles\": [{\"cancer_type\": \"Carcinome sére",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "OVARIAN_PATHOLOGY_HISTOPATHOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] staging_system: {\"document_id\": \"OVARIAN_STAGING_SYSTEMS\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"FIGO Ovarian Cancer Staging 2014\", \"organization\": \"FIGO\", \"year\": 2014}, {\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"RECIST 1.1 Guidelines\"",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "OVARIAN_STAGING_SYSTEMS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] oncology_score: {\"document_id\": \"OVARIAN_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}], \"oncology_scores\": [{\"score_name\": \"Score laparoscopique de Fagotti\", \"purpose\": \"Prédit la résécabilité complète (R0) lor",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "OVARIAN_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] resistance_mechanism: {\"document_id\": \"OVARIAN_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Precision Oncology Recommendations\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Clinical Oncology\", \"organization\": \"Nature\", \"year\": 2024}], \"resistance_profil",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "OVARIAN_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] followup: {\"document_id\": \"OVARIAN_FOLLOWUP_MONITORING\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"GCIG (Gynecologic Cancer InterGroup) Consensus\", \"organization\": \"GCIG\", \"year\": 2023}], \"followup_protocols\": [{",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "OVARIAN_FOLLOWUP_MONITORING"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] contraindication_interaction: {\"document_id\": \"OVARIAN_CONTRAINDICATIONS_INTERACTIONS\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Safety Information\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}], \"drug_safety_profiles\": [{\"drug_name\": \"Carboplatine\", \"contraindications\": [\"Hypersensibilité sévère\"",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "OVARIAN_CONTRAINDICATIONS_INTERACTIONS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] toxicity_management: {\"document_id\": \"OVARIAN_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"CTCAE v5.0\", \"organization\": \"NCI\", \"year\": 2023}], \"toxicity_profiles\": [{\"toxicity_name\": \"Thrombocytopénie (inhibiteurs de PARP - Niraparib)\", \"causing_drugs\": [\"Niraparib (le plus fréquen",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "OVARIAN_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] palliative_care: {\"document_id\": \"OVARIAN_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ASCO Palliative Care Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}, {\"source\": \"ESMO Palliative Care Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Cancer Pain Ladder\", \"organization\": \"OMS\", \"year\": 2023}], \"symptom_management_profiles\": [{\"symptom_name\": \"Occlusi",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "OVARIAN_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] biomarker_genetics: {\"document_id\": \"OVARIAN_BIOMARKERS_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}], \"biomarker_profiles\": [{\"marker_name\": \"CA-125 (Antigène cancéreux 125)\", \"associated_cancers\": \"Cancer épithélial",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "OVARIAN_BIOMARKERS_GENETICS"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] clinical_reasoning: {\"document_id\": \"OVARIAN_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"SOLO-1 Trial (NEJM 2018)\", \"organization\": \"NEJM\", \"year\": 2018}, {\"source\": \"PAOLA-1 Trial (NEJM 2019)\"",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "OVARIAN_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] diagnostic_guideline: {\"document_id\": \"OVARIAN_DIAGNOSTIC_GUIDELINES\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"IOTA Consensus\", \"organization\": \"IOTA\", \"year\": 2023}], \"diagnostic_guidelines\": [{\"cancer_type\": ",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "OVARIAN_DIAGNOSTIC_GUIDELINES"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] medical_literature: {\"document_id\": \"OVARIAN_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}, {\"source\": \"Lancet Oncology\", \"organization\": \"Lancet\"}], \"literature_evidence\": [{\"title\": \"Entretien par Olaparib chez les patientes atteintes d'un cancer d",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "OVARIAN_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[Cancer épithélial de l'ovaire] oncology_emergency: {\"document_id\": \"OVARIAN_ONCOLOGY_EMERGENCY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ESMO Ovarian Cancer Guidelines 2024\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"NCCN Ovarian Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ASCO Emergency Oncology Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}], \"oncology_emergencies\": [{\"",
+    "metadata": {
+      "cancer": "Cancer épithélial de l'ovaire",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "OVARIAN_ONCOLOGY_EMERGENCY"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] definition: Le cancer de la thyroïde est un groupe hétérogène de néoplasmes malins provenant des cellules épithéliales folliculaires thyroïdiennes (carcinomes papillaire, folliculaire, peu différencié et anaplasique) ou des cellules C parafolliculaires (carcinome médullaire). Ces entités diffèrent profondément par leur pathogenèse moléculaire, leur architecture histologique, leur comportement clinique, leur mode métastatique, leur avidité pour la radio-iode et leur réponse à la thérapie systémique. La strat",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "THYROID_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] protocol: Protocole: Low-Risk Papillary Thyroid Carcinoma Initial Management | Médicaments: [{'drug_name': 'Levothyroxine (L-T4)', 'dose': '1,6–1,8 mcg/kg/jour ; ajuster pour atteindre une TSH de 0,5–2,0 mU/L pour les excellents répondeurs ; TSH 0,1–0,5 mU/L pour une réponse acceptable en attendant la réévaluation à 12 mois', 'route': 'Oral', 'frequency': 'Quotidienne, administrée 30–60 minutes avant le petit-déjeuner ; séparer du calcium, du fer et des IPP par ≥4 heures'}]",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "THYROID_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] protocol: Protocole: Intermediate/High-Risk Differentiated Thyroid Cancer | Médicaments: [{'drug_name': 'Iodine-131 (Sodium Iodide I-131)', 'dose': \"Ablation du reliquat : 30–100 mCi (1,1–3,7 GBq) pour risque faible à intermédiaire ; Thérapie adjuvante : 100–150 mCi (3,7–5,5 GBq) pour risque élevé ; Maladie métastatique : 150–200 mCi (5,5–7,4 GBq) guidée par dosimétrie ; La dose cumulée à vie typique est ≤600 mCi (22,2 GBq) avant que les critères de réfractarité ne s'appliquent\", 'route': 'Oral (capsule o",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "THYROID_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] protocol: Protocole: Radioiodine-Refractory Differentiated Thyroid Cancer | Médicaments: [{'drug_name': 'Lenvatinib (Lenvima®)', 'dose': 'Dose de départ 24 mg/jour ; réductions à 20 mg, 14 mg, 10 mg pour toxicité ; arrêt maximum 3 semaines avant interruption ; poids corporel <60 kg : envisager de commencer à 20 mg/jour', 'route': 'Oral (gélules) ; avaler entières avec ou sans nourriture', 'frequency': 'Une fois par jour à la même heure ; si une dose est oubliée et ne peut être prise dans les 12 heures, sa",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "THYROID_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] protocol: Protocole: RET-Mutated Medullary Thyroid Carcinoma | Médicaments: [{'drug_name': 'Selpercatinib (Retevmo®/Retsevmo®)', 'dose': \"Poids corporel ≥50 kg : 160 mg deux fois par jour ; <50 kg : 120 mg deux fois par jour ; schéma de réduction : 160→120→80 mg BID pour toxicité de grade 3–4 ; alimentation : prendre sans tenir compte des repas ; éviter les inhibiteurs puissants du CYP3A4 (augmentent l'exposition) et les inducteurs (réduisent l'exposition)\", 'route': 'Oral (gélules)', 'frequency': \"Deux f",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "THYROID_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] protocol: Protocole: BRAF V600E Mutated Anaplastic Thyroid Carcinoma | Médicaments: [{'drug_name': 'Dabrafenib (Tafinlar®)', 'dose': \"150 mg deux fois par jour (combiné au tramétinib) ; réduction à 100 mg BID puis 75 mg BID pour toxicité intolérable ; prendre à jeun (au moins 1 heure avant ou 2 heures après un repas) ; éviter les inducteurs/inhibiteurs puissants du CYP3A4/CYP2C8 ; surveiller la pyrexie (toxicité de combinaison la plus fréquente — jusqu'à 57 %)\", 'route': 'Oral (gélules) ; ne pas écraser n",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "THYROID_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] metastasis: {\"document_id\": \"THYROID_METASTASES\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ATA Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer — Task Force Review and Revision\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Thyroid Carcinoma, Version 2.2025\", \"organization\": \"NCCN\", \"year\": ",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "THYROID_METASTASES"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] diagnostic_guideline: {\"document_id\": \"THYROID_DIAGNOSTIC_GUIDELINES\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ATA Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Thyroid Cancer",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "THYROID_DIAGNOSTIC_GUIDELINES"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] oncology_emergency: {\"document_id\": \"THYROID_EMERGENCY_ONCOLOGY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ATA Thyroid Cancer Guidelines\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"ESMO Clinical Practice Guidelines for Thyroid Cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Emergency ",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "THYROID_EMERGENCY_ONCOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] followup: {\"document_id\": \"THYROID_FOLLOWUP_MONITORING\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ATA Guidelines for Differentiated Thyroid Cancer\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Thyroid Cancer\", \"organization\": \"ESMO\", \"year\": 2024}], \"followup_p",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "THYROID_FOLLOWUP_MONITORING"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] contraindication_interaction: {\"document_id\": \"THYROID_CONTRAINDICATIONS_INTERACTIONS\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Safety Information\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Lexicomp ",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "THYROID_CONTRAINDICATIONS_INTERACTIONS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] biomarker_genetics: {\"document_id\": \"THYROID_BIOMARKERS_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ATA Guidelines for Thyroid Cancer\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"WHO Classification of Thyroid Tumours\", \"organization\": \"WHO\", \"year\": 2022}, {\"source\": \"ESMO Precision Medici",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "THYROID_BIOMARKERS_GENETICS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] medical_literature: {\"document_id\": \"THYROID_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"PubMed\", \"organization\": \"NIH\"}, {\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}, {\"source\": \"Lancet Oncology\", \"organization\": \"Lancet\"}], \"literature_evidence\": [{\"title\": \"Lenvatinib versus Pl",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "THYROID_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] clinical_reasoning: {\"document_id\": \"THYROID_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ATA Guidelines for Thyroid Cancer\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}], \"clinical_reasoning_cases\": [{\"clini",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "THYROID_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] toxicity_management: {\"document_id\": \"THYROID_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"CTCAE v5.0\", \"organization\": \"National Cancer Institute\", \"year\": 2023}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Toxicity Management Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}], \"toxicity_profiles\": [{\"toxicity_",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "THYROID_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] resistance_mechanism: {\"document_id\": \"THYROID_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Precision Oncology Recommendations\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Clinical Oncology\", \"organization\": \"Nature\", \"year\": 2024}, {\"source\": \"Cancer Disco",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "THYROID_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] staging_system: {\"document_id\": \"THYROID_STAGING_SYSTEMS\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"ATA Guidelines for Differentiated Thyroid Cancer\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinica",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "THYROID_STAGING_SYSTEMS"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] oncology_score: {\"document_id\": \"THYROID_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ATA Thyroid Cancer Guidelines\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"RECIST 1.1 Guidelines\", \"organization\": \"EORTC\", \"year\": 2021}, {\"source\": \"NCCN Thyroid Carcinoma Guidelines\", \"organ",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "THYROID_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] pathology: {\"document_id\": \"THYROID_PATHOLOGY_HISTOPATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Thyroid Tumours\", \"organization\": \"WHO\", \"year\": 2022}, {\"source\": \"AFIP Atlas of Tumor Pathology\", \"organization\": \"AFIP\", \"year\": 2023}, {\"source\": \"ATA Thyroid Cancer Guidelines\", \"organization\": \"ATA\", \"year\": 2023}, {\"source\": \"Modern Pathology Review Articles\"",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "THYROID_PATHOLOGY_HISTOPATHOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer de la thyroïde] palliative_care: {\"document_id\": \"THYROID_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ASCO Palliative Care Guidelines\", \"organization\": \"ASCO\", \"year\": 2024}, {\"source\": \"ESMO Palliative Care Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Cancer Pain Ladder\", \"organization\": \"WHO\", \"year\": 2023}, {\"source\": \"NCCN Palliative Care Guidelines\", \"organizatio",
+    "metadata": {
+      "cancer": "Cancer de la thyroïde",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "THYROID_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Cancer du rein] definition: Le carcinome rénal (RCC) est un groupe hétérogène de tumeurs malignes provenant de l'épithélium tubulaire rénal, unifiées par leur origine dans le parenchyme rénal mais différant profondément par leur architecture histologique, leur pathogenèse moléculaire, leur comportement clinique, leurs schémas métastatiques et leur sensibilité thérapeutique. Le sous-type le plus courant, le RCC à cellules claires, est principalement piloté par l'inactivation de VHL et la dérégulation consécutive de la voie ",
+    "metadata": {
+      "cancer": "Cancer du rein",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "KIDNEY_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: Localized RCC — Partial or Radical Nephrectomy | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda®) — Adjuvant', 'dose': '200 mg IV dose fixe toutes les 3 semaines OU 400 mg IV toutes les 6 semaines ; administré sur 30 minutes', 'route': 'Intravenous infusion', 'frequency': \"Toutes les 3 semaines (200 mg) ou toutes les 6 semaines (400 mg) ; jusqu'à 17 cycles (~1 an) ; arrêter pour les effets indésirables immunomédiés de Grade ≥3\"}]",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "KIDNEY_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: First-Line Metastatic Clear Cell RCC — Immunotherapy Combination (IO+IO) | Médicaments: [{'drug_name': 'Nivolumab (Opdivo®)', 'dose': 'Induction : 3 mg/kg IV ; Entretien : 480 mg IV dose fixe', 'route': 'Intravenous infusion over 30 minutes', 'frequency': 'Induction : toutes les 3 semaines × 4 cycles ; Entretien : toutes les 4 semaines (ou 240 mg toutes les 2 semaines)'}, {'drug_name': 'Ipilimumab (Yervoy®)', 'dose': \"1 mg/kg IV (dose plus faible que l'indication du mélanome pour rédu",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "KIDNEY_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: First-Line Metastatic Clear Cell RCC — Immunotherapy + TKI Combination (IO+TKI) | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda®)', 'dose': '200 mg IV toutes les 3 semaines ; ou 400 mg toutes les 6 semaines', 'route': 'Intravenous infusion over 30 minutes', 'frequency': \"Toutes les 3 semaines (standard) ; jusqu'à 35 cycles (~2 ans) selon la notice\"}, {'drug_name': 'Axitinib (Inlyta®)', 'dose': '5 mg PO deux fois par jour ; titrer à 7 mg BID si pas de toxicité de grade ≥2 après ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "KIDNEY_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: Second-Line Metastatic RCC after IO-Based Therapy — Cabozantinib or Nivolumab Monotherapy | Médicaments: [{'drug_name': 'Cabozantinib (Cabometyx®)', 'dose': '60 mg PO une fois par jour ; réductions de dose à 40 mg, puis 20 mg pour toxicité', 'route': 'Oral tablets; take with or without food; avoid grapefruit', 'frequency': 'Une fois par jour en continu'}, {'drug_name': 'Belzutifan (Welireg®)', 'dose': '120 mg PO une fois par jour ; réductions de dose à 80 mg, puis 40 mg pour toxicité ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "KIDNEY_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: Non-Clear Cell RCC Systemic Therapy | Médicaments: [{'drug_name': 'Cabozantinib (Cabometyx®) — non-ccRCC', 'dose': \"60 mg PO une fois par jour ; les réductions de dose standard s'appliquent\", 'route': 'Oral tablets', 'frequency': 'Une fois par jour en continu'}, {'drug_name': 'Gemcitabine', 'dose': '1000 mg/m² IV sur 30 minutes aux jours 1 et 8 de chaque cycle de 21 jours', 'route': 'Intravenous infusion', 'frequency': 'Jours 1 et 8 toutes les 21 jours (4–6 cycles)'}, {'drug_name': 'C",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "KIDNEY_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[unknown] metastasis: {\"document_id\": \"KIDNEY_METASTASES\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Kidney Cancer v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"EAU Guidelines on Renal Cell Carcinoma\", \"organization\": \"European ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "KIDNEY_METASTASES"
+    }
+  },
+  {
+    "text": "[unknown] diagnostic_guideline: {\"document_id\": \"KIDNEY_DIAGNOSTIC_GUIDELINES\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Kidney Cancer Guidelines v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Renal Cell Carcinoma\", \"organization\": \"EAU\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}]",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "KIDNEY_DIAGNOSTIC_GUIDELINES"
+    }
+  },
+  {
+    "text": "[unknown] oncology_emergency: {\"document_id\": \"KIDNEY_EMERGENCY_ONCOLOGY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Kidney Cancer Guidelines v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Emergency Management in Oncology\", \"organization\": \"ASCO Educational Resources\", \"y",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "KIDNEY_EMERGENCY_ONCOLOGY"
+    }
+  },
+  {
+    "text": "[unknown] followup: {\"document_id\": \"KIDNEY_FOLLOWUP_MONITORING\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Kidney Cancer Guidelines v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Renal Cell Carcinoma\", \"organization\": \"EAU\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}], \"followup_pr",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "KIDNEY_FOLLOWUP_MONITORING"
+    }
+  },
+  {
+    "text": "[unknown] contraindication_interaction: {\"document_id\": \"KIDNEY_CONTRAINDICATIONS_INTERACTIONS\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Safety Information\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"NCCN Kidney Cancer Guidelines v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"Lexicomp Drug Interactions\", \"organization\": \"Wolters Kluwer\", \"year\": 2025}], \"drug_safety_p",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "KIDNEY_CONTRAINDICATIONS_INTERACTIONS"
+    }
+  },
+  {
+    "text": "[unknown] biomarker_genetics: {\"document_id\": \"KIDNEY_BIOMARKERS_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Kidney Cancer Guidelines v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"WHO Classification of Tumours of the Urinary System\", \"organization\": \"WHO\", \"year\": 2022}, {\"source\": \"ESMO Precision Medicine Recommendations\", \"organization\": \"ESMO\", \"year\": 2024}], \"biomark",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "KIDNEY_BIOMARKERS_GENETICS"
+    }
+  },
+  {
+    "text": "[unknown] medical_literature: {\"document_id\": \"KIDNEY_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"PubMed\", \"organization\": \"NIH\"}, {\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}, {\"source\": \"Lancet Oncology\", \"organization\": \"Lancet\"}], \"literature_evidence\": [{\"title\": \"Nivolumab plus Ipilim",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "KIDNEY_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[unknown] clinical_reasoning: {\"document_id\": \"KIDNEY_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Kidney Cancer Guidelines v3.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Renal Cell Carcinoma\", \"organization\": \"EAU\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}], \"cl",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "KIDNEY_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[unknown] toxicity_management: {\"document_id\": \"KIDNEY_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"CTCAE v5.0\", \"organization\": \"National Cancer Institute\", \"year\": 2023}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Kidney Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\":",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "KIDNEY_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[unknown] resistance_mechanism: {\"document_id\": \"KIDNEY_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Kidney Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Cancer — Mechanisms of Resistan",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "KIDNEY_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[unknown] staging_system: {\"document_id\": \"KIDNEY_STAGING_SYSTEMS\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Kidney Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "KIDNEY_STAGING_SYSTEMS"
+    }
+  },
+  {
+    "text": "[unknown] oncology_score: {\"document_id\": \"KIDNEY_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"IMDC Prognostic Model — Heng et al., Lancet Oncology 2013\", \"organization\": \"IMDC\", \"year\": 2013}, {\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"RECIST 1.1 Guidelines\", \"organization\": \"EORTC\", \"year\": 2021}, {\"source\": \"NCCN Kidney Ca",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "KIDNEY_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[unknown] pathology: {\"document_id\": \"KIDNEY_PATHOLOGY_HISTOPATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours of the Urinary System and Male Genital Organs, 5th Edition\", \"organization\": \"WHO\", \"year\": 2022}, {\"source\": \"ISUP Grading System for Renal Cell Carcinoma\", \"organization\": \"International Society of Urological Pathology\", \"year\": 2013}, {\"source\": \"NCCN Kidn",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "KIDNEY_PATHOLOGY_HISTOPATHOLOGY"
+    }
+  },
+  {
+    "text": "[unknown] palliative_care: {\"document_id\": \"KIDNEY_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-28\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Palliative Care Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Renal Cell Carcinoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Guidelines on Palliative Care and Pain Management\", \"organization\": \"WHO\", \"year\": ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "KIDNEY_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] definition: Le cancer de la prostate est une tumeur épithéliale maligne provenant des cellules glandulaires de la prostate. Il constitue un spectre de maladies biologiquement hétérogènes — allant de foyers microscopiques cliniquement insignifiants (souvent détectés fortuitement à l'autopsie) à des tumeurs rapidement létales résistantes à la castration avec métastases viscérales. Le moteur fondamental de la carcinogenèse et de la progression de la maladie prostatique est la signalisation du récepteur aux and",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "PROSTATE_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] protocol: Protocole: Very Low-Risk and Low-Risk Localized Prostate Cancer — Active Surveillance | Médicaments: []",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "PROSTATE_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] protocol: Protocole: Intermediate-Risk Localized Prostate Cancer — Definitive Local Treatment | Médicaments: [{'drug_name': 'Leuprolide Acetate (Lupron Depot®, Eligard®)', 'dose': '7,5 mg IM mensuel ; 22,5 mg IM tous les 3 mois ; 30 mg IM tous les 4 mois ; 45 mg IM tous les 6 mois', 'route': 'Intramuscular injection (depot formulation)', 'frequency': 'Selon la formulation de dépôt choisie ; ADT de courte durée : 4–6 mois au total ; ADT de longue durée : 18–36 mois selon le protocole'}, {'drug_name': 'Gose",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "PROSTATE_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] protocol: Protocole: High-Risk and Very High-Risk Localized / Locally Advanced Prostate Cancer | Médicaments: [{'drug_name': 'Leuprolide Acetate (Lupron Depot®)', 'dose': '22,5 mg IM tous les 3 mois ou 45 mg IM tous les 6 mois', 'route': 'Intramuscular depot injection', 'frequency': 'Selon la formulation ; longue durée : 18–36 mois minimum ; testostérone sérique surveillée tous les 3–6 mois (cible <50 ng/dL)'}, {'drug_name': 'Abiraterone Acetate (Zytiga®)', 'dose': \"1000 mg par voie orale une fois par jou",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "PROSTATE_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] protocol: Protocole: Metastatic Castration-Sensitive Prostate Cancer (mCSPC) — First-Line Systemic Therapy | Médicaments: [{'drug_name': 'Abiraterone Acetate (Zytiga®)', 'dose': '1000 mg par voie orale une fois par jour à jeun ; Prednisone 5 mg par voie orale deux fois par jour (co-administration obligatoire)', 'route': 'Oral', 'frequency': \"Quotidienne ; continue jusqu'à progression de la maladie ou toxicité inacceptable ; LFTs mensuels × 3 mois puis tous les 3 mois ; PA et potassium mensuels\"}, {'drug_n",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "PROSTATE_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] protocol: Protocole: Metastatic Castration-Resistant Prostate Cancer (mCRPC) — Systemic Therapy | Médicaments: [{'drug_name': 'Enzalutamide (Xtandi®)', 'dose': '160 mg par voie orale une fois par jour ; réduction de dose à 80 mg pour risque de crise ou toxicité de Grade ≥3', 'route': 'Oral', 'frequency': \"Quotidienne ; continue ; surveiller la fatigue, l'hypertension, les chutes, les effets cognitifs\"}, {'drug_name': 'Olaparib (Lynparza®)', 'dose': '300 mg par voie orale deux fois par jour (monothérapie o",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "PROSTATE_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] case: Cas: PSA Elevation in a 62-Year-Old Man — Navigating Biopsy Decision | Diagnostic: Stratification du risque de cancer de la prostate cliniquement significatif ; lésion PI-RADS 4 (15 mm, zone périphérique droite) trouvée à l'IRMmp",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "clinical_case",
+      "subtype": "case",
+      "doc_id": "PROSTATE_CLINICAL_CASES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] case: Cas: High-Risk Prostate Cancer with Lymph Node Involvement — Multimodal Treatment Planning | Diagnostic: Cancer de la prostate localement avancé à très haut risque : cT3b N1 M0, ISUP GG 5, PSA 45 ng/mL",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "clinical_case",
+      "subtype": "case",
+      "doc_id": "PROSTATE_CLINICAL_CASES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] case: Cas: De Novo High-Volume Metastatic Castration-Sensitive Prostate Cancer — Treatment Intensification | Diagnostic: CSPCm métastatique de novo de haut volume (CHAARTED haut volume : >4 métastases osseuses, LN bilatéraux)",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "clinical_case",
+      "subtype": "case",
+      "doc_id": "PROSTATE_CLINICAL_CASES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] case: Cas: Castration-Resistant Prostate Cancer — Sequencing After ARPI and Taxane Failure | Diagnostic: CRPCm, PSMA-positif, muté ATM, post-abiratérone + post-docétaxel",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "clinical_case",
+      "subtype": "case",
+      "doc_id": "PROSTATE_CLINICAL_CASES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] metastasis: {\"document_id\": \"PROSTATE_METASTASIS\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}, {\"source\": \"ESMO Clinical Practice Guidelines for Prostate Cancer\", ",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "PROSTATE_METASTASIS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] diagnostic_guideline: {\"document_id\": \"PROSTATE_DIAGNOSTIC_GUIDELINES\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}, {\"source\": \"PI-RADS Version 2.1 — ACR Committee",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "PROSTATE_DIAGNOSTIC_GUIDELINES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] oncology_emergency: {\"document_id\": \"PROSTATE_ONCOLOGY_EMERGENCIES\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}, {\"source\": \"ESMO Oncological Emergencies Clinical ",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "PROSTATE_ONCOLOGY_EMERGENCIES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] followup: {\"document_id\": \"PROSTATE_FOLLOWUP\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}], \"followup_protocols\": [{\"cancer_context\": \"Post-Radical Prostatectomy (",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "PROSTATE_FOLLOWUP"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] contraindication_interaction: {\"document_id\": \"PROSTATE_DRUG_SAFETY\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Prescribing Information for Prostate Cancer Drugs, 2025\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"EMA Summary of Product Characteristics — Prostate Cancer Medicines, 2024\", \"organization\": \"EMA\", \"year\": 2024}], \"drug_safety_profiles\": [{\"drug_name\": \"Abirateron",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "PROSTATE_DRUG_SAFETY"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] biomarker_genetics: {\"document_id\": \"PROSTATE_BIOMARKER_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}, {\"source\": \"ASCO Prostate Cancer Genomic Biomarker G",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "PROSTATE_BIOMARKER_GENETICS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] medical_literature: {\"document_id\": \"PROSTATE_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"PubMed/MEDLINE - Prostate Cancer Clinical Trials 2020–2025\", \"organization\": \"NIH/NLM\", \"year\": 2025}], \"literature_evidence\": [{\"trial_name\": \"VISION Trial\", \"full_title\": \"177Lu-PSMA-617 vs. Standard of Care in Metastatic Castration-Resistant Prostate Cancer\", \"journal\": \"New Engla",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "PROSTATE_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] clinical_reasoning: {\"document_id\": \"PROSTATE_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}], \"clinical_reasoning_cases\": [{\"scenario_title\": \"Se",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "PROSTATE_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] toxicity_management: {\"document_id\": \"PROSTATE_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO/ASCO Toxicity Management Guidelines, 2024\", \"organization\": \"ESMO/ASCO\", \"year\": 2024}], \"toxicity_profiles\": [{\"toxicity_name\": \"ADT-Induced Side Effec",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "PROSTATE_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] resistance_mechanism: {\"document_id\": \"PROSTATE_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"Cancer Cell — Mechanisms of Prostate Cancer Resistance, 2023\", \"organization\": \"Cell Press\", \"year\": 2023}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}], \"resistance_profiles\": [{\"resistance_name\": \"",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "PROSTATE_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] staging_system: {\"document_id\": \"PROSTATE_STAGING\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual, 8th Edition — Prostate Cancer\", \"organization\": \"American Joint Committee on Cancer\", \"year\": 2017}, {\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}, {\"source\": \"NCCN Risk Stratification for Prostate C",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "PROSTATE_STAGING"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] oncology_score: {\"document_id\": \"PROSTATE_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"EAU Guidelines on Prostate Cancer 2024\", \"organization\": \"European Association of Urology\", \"year\": 2024}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Prostate Cancer v4.2025\", \"organization\": \"NCCN\", \"year\": 2025}], \"oncology_scores\": [{\"score_name\": \"D'Amico Risk Classific",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "PROSTATE_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] pathology: {\"document_id\": \"PROSTATE_PATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours of the Urinary System and Male Genital Organs, 5th Edition\", \"organization\": \"WHO\", \"year\": 2022}, {\"source\": \"ISUP Consensus Statement on Gleason Grading of Prostate Carcinoma, 2014/2019 Update\", \"organization\": \"International Society of Urological Pathology\", \"year\": 20",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "PROSTATE_PATHOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer de la prostate] palliative_care: {\"document_id\": \"PROSTATE_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Palliative Care v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Palliative Care in Prostate Cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"EAU Guidelines on Prostate Cancer — Pal",
+    "metadata": {
+      "cancer": "Cancer de la prostate",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "PROSTATE_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Cancer du col de l'utérus] definition: Le cancer du col de l'utérus est une prolifération maligne des cellules du col utérin, principalement liée à une infection persistante par des papillomavirus humains (HPV) à haut risque oncogène. Il représente l'un des cancers gynécologiques les plus fréquents dans le monde, particulièrement dans les pays à ressources limitées où les programmes de dépistage sont insuffisants.",
+    "metadata": {
+      "cancer": "Cancer du col de l'utérus",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "CCU"
+    }
+  },
+  {
+    "text": "[unknown] metastasis: {\"document_id\": \"Meta_CCU\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème Édition\", \"organization\": \"AMFROM (Association Marocaine de Formation et de Recherche en Oncologie Médicale)\", \"country\": \"Morocco\", \"year\": 2024, \"url\": \"http://amfrom.ma\"}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Cervical Cancer v1.2",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "Meta_CCU"
+    }
+  },
+  {
+    "text": "[unknown] drug_profile_standard: {\"document_id\": \"DRUG-CCU\", \"document_type\": \"drug_profile_standard\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Élevé (Grade A / Recommandations de consensus)\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie\", \"organization\": \"AMFROM (Maroc)\", \"year\": 2024}, {\"source\": \"Référentiels de Soins de Support\", \"organization\": \"AFROM / MASCC\", \"year\": 2025}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology v1.202",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "drug_profile_standard",
+      "subtype": "drug_profile_standard",
+      "doc_id": "DRUG-CCU"
+    }
+  },
+  {
+    "text": "[unknown] diagnostic_guideline: {\"document_id\": \"CCU_DIAG\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Très élevé\", \"references\": [{\"source\": \"https://www.afro.who.int/fr/publications/directives-pour-le-depistage-et-le-traitement-des-lesions-precancereuses-du-col\", \"organization\": \"WHO Africa / AFROM\", \"year\": 2024}, {\"source\": \"https://www.who.int/publications/i/item/9789240030831\", \"organization\": \"WHO Global\", \"year\": 2024}, {\"sourc",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "CCU_DIAG"
+    }
+  },
+  {
+    "text": "[unknown] oncology_emergency: {\"document_id\": \"CCU_EMER\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Très élevé\", \"references\": [{\"source\": \"https://www.afro.who.int/fr\", \"organization\": \"WHO Africa / AFROM\", \"year\": 2024}, {\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines/supportive-and-palliative-care/management-of-advanced-cervical-cancer\", \"organization\": \"ESMO\", \"year\": 2023}, {\"source\": \"https://www.cancer.gov\", \"or",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "CCU_EMER"
+    }
+  },
+  {
+    "text": "[unknown] followup: {\"document_id\": \"FUP-CERVICAL\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"https://www.nccn.org/guidelines/category_1\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines/gynaecological-cancers/cervical-cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"https://www.afro.who.int/fr/publications/directives-pour-le-depistage",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "FUP-CERVICAL"
+    }
+  },
+  {
+    "text": "[unknown] contraindication_interaction: {\"document_id\": \"CSI-CERVICAL\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"https://www.fondationlallasalma.ma\", \"organization\": \"Association Lalla Salma de Lutte contre le Cancer / ALSC Maroc\", \"year\": 2024}, {\"source\": \"https://www.afro.who.int/fr\", \"organization\": \"WHO Africa / AFROM (Clinical Safety Guidelines)\", \"year\": 2025}, {\"source\": \"https://www.esmo.or",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "CSI-CERVICAL"
+    }
+  },
+  {
+    "text": "[unknown] medical_literature: {\"document_id\": \"LIT-CERVICAL_REV2026\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"I (Niveau d'évidence maximal - Essais cliniques randomisés de phase III et méta-analyses multicentriques)\", \"references\": [{\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"The Lancet Oncology\", \"organization\": \"Lancet\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}, {\"s",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "LIT-CERVICAL_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] clinical_reasoning: {\"document_id\": \"CR-CERVICAL\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-29\", \"evidence_level\": \"Élevé (Grade A - Essais randomisés de phase III et consensus d'experts AFROM/OMS)\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Cervical Cancer\", \"organization\": \"NCCN\", \"year\": \"2025\"}, {\"source\": \"ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up\", \"organization\": \"ESMO\", \"year\"",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "CR-CERVICAL"
+    }
+  },
+  {
+    "text": "[unknown] toxicity_management: {\"document_id\": \"CERVICAL_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"CTCAE v5.0\", \"organization\": \"National Cancer Institute\", \"year\": 2023}, {\"source\": \"NCCN Cervical Cancer Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Toxicity Management Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"AFROM Oncology Network ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "CERVICAL_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[unknown] resistance_mechanism: {\"document_id\": \"RESISTANCE_CERVICAL\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Cervical Cancer Guidelines\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Immunotherapy Resistance Review\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Clinical Oncology\", \"organization\": \"Nature\", \"year\": 2024}, {\"source\": \"AFROM Oncology Network Clin",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "RESISTANCE_CERVICAL"
+    }
+  },
+  {
+    "text": "[unknown] staging_system: {\"document_id\": \"STAGING_CERVICAL_REV2026\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FIGO Cancer Report 2021/2024: Staging of Carcinoma of the Uterine Cervix\", \"organization\": \"International Federation of Gynecology and Obstetrics (FIGO)\", \"year\": 2024}, {\"source\": \"AJCC Cancer Staging Manual, 9th Edition: Cervix Uteri\", \"organization\": \"American Joint Committee on Cancer (",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "STAGING_CERVICAL_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] oncology_score: {\"document_id\": \"ONC-CERVICAL-SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FIGO Cervical Cancer Staging & Prognostic Factors Guidelines\", \"organization\": \"FIGO\", \"year\": 2024}, {\"source\": \"ECOG Performance Status Criteria\", \"organization\": \"Eastern Cooperative Oncology Group via ASCO\", \"year\": 2023}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology: Cervical C",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "ONC-CERVICAL-SCORES"
+    }
+  },
+  {
+    "text": "[unknown] pathology: {\"document_id\": \"PATH-CERVICAL_REV2026\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours, 5th Edition: Female Genital Tumours\", \"organization\": \"World Health Organization (WHO)\", \"year\": 2020}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology: Cervical Cancer (Version 1.2026)\", \"organization\": \"National Comprehensive Cancer Network (NCCN)\", \"year\"",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "PATH-CERVICAL_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] palliative_care: {\"document_id\": \"PALLIATIVE_CERVICAL_REV2026\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-30\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Guidelines for the Chronic Management of Cancer Pain in Adults\", \"organization\": \"World Health Organization (WHO)\", \"year\": 2023}, {\"source\": \"ESMO Clinical Practice Guidelines for Supportive and Palliative Care: Management of Advanced Cervical Cancer Symptoms\", \"organization\": \"Eur",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "PALLIATIVE_CERVICAL_REV2026"
+    }
+  },
+  {
+    "text": "[Cancer de la vessie] definition: Le cancer de la vessie est une prolifération maligne touchant le plus souvent la muqueuse interne vésicale (urothélium). Il se caractérise par un dualisme évolutif marqué entre les formes superficielles, caractérisées par un risque élevé de récidive locale, et les formes infiltrant le détrusor (muscle vésical), à fort potentiel métastatique nécessitant des thérapeutiques lourdes plurimodales.",
+    "metadata": {
+      "cancer": "Cancer de la vessie",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "BLA"
+    }
+  },
+  {
+    "text": "[unknown] unknown: {\"bladder_cancer_protocols\": [{\"document_id\": \"Pro_BLA_001\", \"document_type\": \"treatment_protocol\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème Édition\", \"organization\": \"AMFROM (Association Marocaine de Formation et de Recherche en Oncologie Médicale)\", \"country\": \"Morocco\", \"year\": 2024, \"url\": \"http://amfrom.ma\"}, {\"source\": \"EAU Guidelines on Muscle-in",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "unknown",
+      "subtype": "unknown",
+      "doc_id": "unknown"
+    }
+  },
+  {
+    "text": "[unknown] metastasis: {\"document_id\": \"Meta_BLA\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème Édition\", \"organization\": \"AMFROM (Association Marocaine de Formation et de Recherche en Oncologie Médicale)\", \"country\": \"Morocco\", \"year\": 2024, \"url\": \"http://amfrom.ma\"}, {\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"o",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "Meta_BLA"
+    }
+  },
+  {
+    "text": "[unknown] drug_profile_standard: {\"document_id\": \"DRUG-BLA\", \"document_type\": \"drug_profile_standard\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé (Grade A / Recommandations de consensus)\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème Édition\", \"organization\": \"AMFROM (Maroc)\", \"year\": 2024}, {\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"organization\": \"European Association of Urology\", \"year\": 2024}, ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "drug_profile_standard",
+      "subtype": "drug_profile_standard",
+      "doc_id": "DRUG-BLA"
+    }
+  },
+  {
+    "text": "[unknown] diagnostic_guideline: {\"document_id\": \"BLA_DIAG\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Très élevé\", \"references\": [{\"source\": \"https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer\", \"organization\": \"EAU (European Association of Urology)\", \"year\": 2024}, {\"source\": \"https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1417\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"Guide des Pr",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "BLA_DIAG"
+    }
+  },
+  {
+    "text": "[unknown] oncology_emergency: {\"document_id\": \"BLA_EMER\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Très élevé\", \"references\": [{\"source\": \"https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer\", \"organization\": \"EAU (European Association of Urology)\", \"year\": 2024}, {\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Guide des Protocoles Thérapeuti",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "BLA_EMER"
+    }
+  },
+  {
+    "text": "[unknown] followup: {\"document_id\": \"BLA_FUP\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer\", \"organization\": \"EAU (European Association of Urology)\", \"year\": 2024}, {\"source\": \"https://www.nccn.org/guidelines/category_1\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "BLA_FUP"
+    }
+  },
+  {
+    "text": "[unknown] contraindication_interaction: {\"document_id\": \"BLA_CSI\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer\", \"organization\": \"EAU (European Association of Urology)\", \"year\": 2024}, {\"source\": \"https://www.fondationlallasalma.ma\", \"organization\": \"Association Lalla Salma de Lutte contre le Cancer / ALSC Maroc\", \"year\": 2024}",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "BLA_CSI"
+    }
+  },
+  {
+    "text": "[unknown] medical_literature: {\"document_id\": \"BLA_LIT_REV2026\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"I (Niveau d'évidence maximal - Essais cliniques randomisés de phase III et méta-analyses multicentriques)\", \"references\": [{\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"The Lancet\", \"organization\": \"Lancet\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}], \"literature_evid",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "BLA_LIT_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] clinical_reasoning: {\"document_id\": \"BLA-CLIN\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé (Grade A - Recommandations de l'EAU et consensus d'experts ALSC Maroc)\", \"references\": [{\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"organization\": \"EAU\", \"year\": \"2025\"}, {\"source\": \"ESMO Clinical Practice Guidelines: Bladder Cancer\", \"organization\": \"ESMO\", \"year\": \"2024\"}], \"clinical_reasoning_",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "BLA-CLIN"
+    }
+  },
+  {
+    "text": "[unknown] toxicity_management: {\"document_id\": \"BLA_TOX_REV2026\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"CTCAE v5.0\", \"organization\": \"National Cancer Institute\", \"year\": 2023}, {\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"organization\": \"EAU\", \"year\": 2025}, {\"source\": \"ESMO Management of Toxicities from Immunotherapy Guidelines\", \"organization\": \"ESMO\", \"year\": ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "BLA_TOX_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] resistance_mechanism: {\"document_id\": \"BLA_RES_REV2026\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"organization\": \"EAU\", \"year\": 2025}, {\"source\": \"ESMO Bladder Cancer Molecular Mechanisms Review\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Urology\", \"organization\": \"Nature\", \"year\": 2025}], \"resistanc",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "BLA_RES_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] staging_system: {\"document_id\": \"BLA_STG_REV2026\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"organization\": \"European Association of Urology (EAU)\", \"year\": 2025}, {\"source\": \"AJCC Cancer Staging Manual, 9th Edition: Urinary Bladder\", \"organization\": \"American Joint Committee on Cancer (AJCC)\", \"year\": 2024}, {\"source\": \"NCC",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "BLA_STG_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] oncology_score: {\"document_id\": \"BLA_SCR_REV2026\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer\", \"organization\": \"European Association of Urology (EAU)\", \"year\": 2025}, {\"source\": \"EORTC Risk Groups and Scoring Calculator for Non-Muscle-Invasive Bladder Cancer\", \"organization\": \"EORTC\", \"year\": 2024}, {\"source\": \"Galsky Eligibili",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "BLA_SCR_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] pathology: {\"document_id\": \"BLA_PAT_REV2026\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Tumours, 5th Edition: Urinary and Male Genital Tumours\", \"organization\": \"World Health Organization (WHO)\", \"year\": 2022}, {\"source\": \"CAP Cancer Protocols for the Examination of Specimens From Patients With Carcinomas of the Urinary Bladder\", \"organization\": \"College of American Pa",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "BLA_PAT_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] palliative_care: {\"document_id\": \"BLA_PAL_REV2026\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Guidelines for the Chronic Management of Cancer Pain in Adults\", \"organization\": \"World Health Organization (WHO)\", \"year\": 2023}, {\"source\": \"EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer: Palliative Care Section\", \"organization\": \"European Association of Urology (EAU)\", \"yea",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "BLA_PAL_REV2026"
+    }
+  },
+  {
+    "text": "[Mélanome uvéal (oculaire)] definition: Le mélanome uvéal est une prolifération maligne hautement agressive se développant aux dépens des mélanocytes uvéaux issus de la crête neurale et localisés dans la tunique vasculaire de l'œil (uvée). Contrairement au mélanome cutané, son oncogenèse est indépendante de l'exposition aux rayons ultraviolets (UV) et sa dissémination métastatique s'effectue exclusivement par voie hématogène systémique, montrant un tropisme organique absolu pour le parenchyme hépatique.",
+    "metadata": {
+      "cancer": "Mélanome uvéal (oculaire)",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "MEL_002"
+    }
+  },
+  {
+    "text": "[Carcinome urothélial in situ de la vessie] definition: Le carcinome in situ (CIS) de la vessie est une forme histologique plane, non invasive et strictement intra-épithéliale de cancer urothélial. Bien que confiné à la couche muqueuse superficielle sans franchissement de la membrane basale (stade Tis), il est composé exclusivement de cellules tumorales hautement dédifférenciées de haut grade. Il possède un potentiel d'évolution invasive extrêmement rapide vers le muscle détrusor.",
+    "metadata": {
+      "cancer": "Carcinome urothélial in situ de la vessie",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "BLA_002"
+    }
+  },
+  {
+    "text": "[unknown] metastasis: {\"document_id\": \"Meta_MEL\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème Édition\", \"organization\": \"AMFROM (Association Marocaine de Formation et de Recherche en Oncologie Médicale)\", \"country\": \"Morocco\", \"year\": 2024, \"url\": \"http://amfrom.ma\"}, {\"source\": \"Cutaneous melanoma: ESMO Clinical Practice Guidelines for diagnosis,",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "Meta_MEL"
+    }
+  },
+  {
+    "text": "[unknown] drug_profile_standard: {\"document_id\": \"DRUG-MEL\", \"document_type\": \"drug_profile_standard\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé (Grade A / Recommandations de consensus)\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie - 6ème Édition\", \"organization\": \"AMFROM (Maroc)\", \"year\": 2024}, {\"source\": \"Cutaneous melanoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up\", \"organization\": \"ESMO\", \"year\": 2024}",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "drug_profile_standard",
+      "subtype": "drug_profile_standard",
+      "doc_id": "DRUG-MEL"
+    }
+  },
+  {
+    "text": "[Mélanome] diagnostic_guideline: {\"document_id\": \"MEL_DIAG\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Très élevé\", \"references\": [{\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines/dermatological-cancers/cutaneous-melanoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1432\", \"organization\": \"NCCN\", \"year\": 2026}, {\"source\": \"Recommandations Nationales ",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "MEL_DIAG"
+    }
+  },
+  {
+    "text": "[Mélanome] oncology_emergency: {\"document_id\": \"MEL_EMER\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Très élevé\", \"references\": [{\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines/dermatological-cancers/cutaneous-melanoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1432\", \"organization\": \"NCCN\", \"year\": 2026}], \"oncology_emergencies\": [{\"emergency_nam",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "MEL_EMER"
+    }
+  },
+  {
+    "text": "[Mélanome] followup: {\"document_id\": \"MEL_FUP\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines/dermatological-cancers/cutaneous-melanoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"https://www.nccn.org/guidelines/category_1\", \"organization\": \"NCCN\", \"year\": 2026}, {\"source\": \"Recommandations Nationales de Prise en Charge du Mélanome Cutané\", \"org",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "MEL_FUP"
+    }
+  },
+  {
+    "text": "[Mélanome] contraindication_interaction: {\"document_id\": \"MEL_CSI\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"https://www.esmo.org/guidelines/oncology-guidelines/dermatological-cancers/cutaneous-melanoma\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"https://www.nccn.org/guidelines/category_1\", \"organization\": \"NCCN\", \"year\": 2026}, {\"source\": \"Recommandations Nationales du Traitement Systémique",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "MEL_CSI"
+    }
+  },
+  {
+    "text": "[Mélanome] medical_literature: {\"document_id\": \"MEL_LIT_REV2026\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Level I Evidence (Phase III Randomized Controlled Trials and Long-Term Follow-Up Studies)\", \"references\": [{\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"The Lancet Oncology\", \"organization\": \"Lancet\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}], \"literature_evidence\": ",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "MEL_LIT_REV2026"
+    }
+  },
+  {
+    "text": "[unknown] clinical_reasoning: {\"document_id\": \"MEL-CLIN\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé (Grade A - Recommandations ESMO et Société Marocaine de Dermatologie)\", \"references\": [{\"source\": \"ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Cutaneous Melanoma\", \"organization\": \"ESMO\", \"year\": \"2024\"}, {\"source\": \"NCCN Guidelines: Melanoma: Cutaneous\", \"organization\": \"NCCN\", \"year\": \"2026\"}], \"c",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "MEL-CLIN"
+    }
+  },
+  {
+    "text": "[Mélanome] toxicity_management: {\"document_id\": \"MEL_TOX_REV2026\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"CTCAE v5.0\", \"organization\": \"National Cancer Institute\", \"year\": 2023}, {\"source\": \"ESMO Clinical Practice Guidelines: Management of Toxicities from Immunotherapy\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"NCCN Guidelines: Management of Immunotherapy-Related Toxicities\", \"organizatio",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "MEL_TOX_REV2026"
+    }
+  },
+  {
+    "text": "[Mélanome] resistance_mechanism: {\"document_id\": \"MEL_RES_REV2026\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"ESMO Cutaneous Melanoma Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Cancer - Melanoma Resistance Mechanisms\", \"organization\": \"Nature\", \"year\": 2025}, {\"source\": \"NCCN Guidelines: Melanoma: Cutaneous\", \"organization\": \"NCCN\", \"year\": 2026}], \"resistance_profi",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "MEL_RES_REV2026"
+    }
+  },
+  {
+    "text": "[Mélanome] staging_system: {\"document_id\": \"MEL_STG_REV2026\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual, 8th/9th Edition: Melanoma of the Skin\", \"organization\": \"American Joint Committee on Cancer (AJCC)\", \"year\": 2024}, {\"source\": \"ESMO Cutaneous Melanoma Clinical Practice Guidelines\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"NCCN Clinical Practice Guidelines in O",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "MEL_STG_REV2026"
+    }
+  },
+  {
+    "text": "[Mélanome] oncology_score: {\"document_id\": \"MEL_SCR_REV2026\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual, 8th/9th Edition: Melanoma of the Skin\", \"organization\": \"American Joint Committee on Cancer (AJCC)\", \"year\": 2024}, {\"source\": \"EORTC Nomogram for Sentinel Lymph Node Metastasis Risk\", \"organization\": \"EORTC Melanoma Group\", \"year\": 2023}, {\"source\": \"NCCN Clinical Practi",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "MEL_SCR_REV2026"
+    }
+  },
+  {
+    "text": "[Mélanome] pathology: {\"document_id\": \"MEL_PAT_REV2026\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Classification of Skin Tumours\", \"organization\": \"WHO\", \"year\": 2018}, {\"source\": \"CAP Melanoma Protocols\", \"organization\": \"College of American Pathologists\", \"year\": 2024}, {\"source\": \"NCCN Melanoma Guidelines\", \"organization\": \"NCCN\", \"year\": 2026}], \"pathology_profiles\": [{\"cancer_type\": \"Mélanom",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "MEL_PAT_REV2026"
+    }
+  },
+  {
+    "text": "[Mélanome] palliative_care: {\"document_id\": \"MEL_PAL_REV2026\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"WHO Guidelines for the Chronic Management of Cancer Pain in Adults\", \"organization\": \"World Health Organization (WHO)\", \"year\": 2023}, {\"source\": \"ESMO Clinical Practice Guidelines for Supportive and Palliative Care: Management of Advanced Skin Malignancies\", \"organization\": \"ESMO\", \"year\": 2024}, ",
+    "metadata": {
+      "cancer": "Mélanome",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "MEL_PAL_REV2026"
+    }
+  },
+  {
+    "text": "[Cancer Colorectal (CCR)] definition: Tumeur maligne développée aux dépens de l'épithélium de la muqueuse du côlon ou du rectum. Il prend naissance le plus souvent à partir d'une lésion bénigne préexistante nommée polype adénomateux, qui subit une transformation maligne lente sur plusieurs années.",
+    "metadata": {
+      "cancer": "Cancer Colorectal (CCR)",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "CK_CRC"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: CAPOX (Capécitabine + Oxaliplatine) | Médicaments: [{'drug_name': 'Oxaliplatine', 'dose': '130 mg/m²', 'route': 'Intraveineuse (IV) (durée : 2 heures)', 'frequency': 'Jour 1, cycle de 21 jours'}, {'drug_name': 'Capécitabine', 'dose': '1000 mg/m²', 'route': 'Oral', 'frequency': 'Deux fois par jour (matin et soir), du Jour 1 au Jour 14'}]",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_CRC_FOLFOX01"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: FOLFIRI + Anti-VEGF (Bevacizumab) | Médicaments: [{'drug_name': 'Irinotécan', 'dose': '180 mg/m²', 'route': 'Intraveineuse (IV) (durée : 90 minutes)', 'frequency': 'Jour 1'}, {'drug_name': 'Bevacizumab', 'dose': '5 mg/kg', 'route': 'Intraveineuse (IV) (durée : 30 à 60 minutes)', 'frequency': 'Jour 1'}, {'drug_name': 'Acide Folinique + 5-FU', 'dose': '400 mg/m² (FA) + 400 mg/m² (bolus) + 2400 mg/m² (continu)', 'route': 'Intraveineuse (IV)', 'frequency': 'Jour 1 et perfusion continue 46",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_CRC_FOLFOX01"
+    }
+  },
+  {
+    "text": "[unknown] metastasis: {\"document_id\": \"MET_CRC_HEP\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"National & International Multidisciplinary Consensus\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Lignes directrices pour la prise en charge des métastases hépatiques du cancer colorectal\"], \"metastatic_profiles\": [{\"primary_cancer\": \"Adénocarcinome colorectal\", \"metastatic_site\": \"Foie (Métastases hé",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "MET_CRC_HEP"
+    }
+  },
+  {
+    "text": "[unknown] diagnostic_guideline: {\"document_id\": \"DG_CRC\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"National Diagnostic Standard\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Recommandations Nationales de Diagnostic et de Dépistage du Cancer Colorectal - Ministère de la Santé\"], \"diagnostic_guidelines\": [{\"cancer_type\": \"Cancer Colorectal (Carcinose Péritonéale)\", \"organization\": \"ESMO / PSOGI\",",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "DG_CRC"
+    }
+  },
+  {
+    "text": "[unknown] oncology_emergency: {\"document_id\": \"EM_CRC_OCC\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"National Emergency Surgical & Oncological Protocols\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Prise en charge des urgences chirurgicales oncologiques - Recommandations Nationales\"], \"oncology_emergencies\": [{\"emergency_name\": \"Perforation colique diastatique\", \"definition\": \"Complication gra",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "EM_CRC_OCC"
+    }
+  },
+  {
+    "text": "[unknown] followup: {\"document_id\": \"FU_CRC_CURATIVE\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1b / National Post-Curative Surveillance Standard\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Protocoles Nationaux de Surveillance du Cancer Colorectal - AMFROM\"], \"followup_protocols\": [{\"cancer_type\": \"CCR - Rectal Cancer (Post-Neoadjuvant CRT & TME Surgery)\", \"stage\": \"Stade II/III (Rectal",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "FU_CRC_CURATIVE"
+    }
+  },
+  {
+    "text": "[unknown] contraindication_interaction: {\"document_id\": \"CI_CRC_5FU\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Official Pharmaceutical & National Consensus Standard\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Fiches de sécurité des cytotoxiques et monographies pharmacologiques - Ministère de la Santé\"], \"drug_safety_profiles\": [{\"drug_name\": \"Oxaliplatine\", \"contraindications\": [\"Neuropathie ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "CI_CRC_5FU"
+    }
+  },
+  {
+    "text": "[unknown] biomarker_genetics: {\"document_id\": \"BG_CRC_RAS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a / National & International Molecular Testing Standard\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Recommandations de la Société Marocaine d'Anatomie Pathologique (SMAP) pour le génotypage des tumeurs colorectales\"], \"biomarker_profiles\": [{\"marker_name\": \"Mutations RAS (KRAS/NRAS)\", \"",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "BG_CRC_RAS"
+    }
+  },
+  {
+    "text": "[unknown] medical_literature: {\"document_id\": \"ML_CRC_MOSAIC\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (Phase III Randomized Controlled Trial)\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Lignes directrices internationales de l'ASCO et de l'ESMO pour le cancer du côlon\"], \"literature_evidence\": [{\"title\": \"Oxaliplatine, Fluorouracile et Leucovorine comme traitement adjuvant pour le c",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "ML_CRC_MOSAIC"
+    }
+  },
+  {
+    "text": "[unknown] clinical_reasoning: {\"document_id\": \"CR_CRC_LATERALITY\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a / High-Evidence Clinical Consensus\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Consensus de la Réunion de Concertation Pluridisciplinaire (RCP) - Lignes directrices nationales\"], \"clinical_reasoning_cases\": [{\"clinical_situation\": {\"patient_status\": \"62 ans, ECOG 0, adénocarcin",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "CR_CRC_LATERALITY"
+    }
+  },
+  {
+    "text": "[unknown] toxicity_management: {\"document_id\": \"TM_CRC_EGFR\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1b / National Consensus on Targeted Therapy Toxocities\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Recommandations de support et de prise en charge des toxicités cutanées des anti-EGFR\"], \"toxicity_profiles\": [{\"toxicity_name\": \"Érythrodysesthésie palmo-plantaire (Syndrome mains-pieds)",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "TM_CRC_EGFR"
+    }
+  },
+  {
+    "text": "[unknown] resistance_mechanism: {\"document_id\": \"RM_CRC_EGFR\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1b / High-Evidence Molecular Oncology Consensus\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Consensus international sur les mécanismes de résistance aux thérapies ciblées du cancer colorectal\"], \"resistance_profiles\": [{\"drug_name\": \"Anticorps monoclonaux anti-EGFR (Cétuximab / Panitu",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "RM_CRC_EGFR"
+    }
+  },
+  {
+    "text": "[unknown] staging_system: {\"document_id\": \"SS_CRC_TNM\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a / Gold Standard Staging System\", \"references\": [\"AJCC Cancer Staging Manual - 8th Edition\", \"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\"], \"staging_systems\": [{\"cancer_type\": \"Cancer Colorectal (CCR)\", \"staging_system\": \"Classification AJCC TNM 8e édition\", \"system_description\": \"Un système de stadification ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "SS_CRC_TNM"
+    }
+  },
+  {
+    "text": "[unknown] oncology_score: {\"document_id\": \"OS_CRC_BSA_ECOG\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a / Gold Standard Clinical Metric\", \"references\": [\"DuBois D, DuBois EF. A formula to estimate the approximate surface area if height and weight be known. Arch Intern Med 1916.\", \"Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol 1982.\", \"Guide des P",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "OS_CRC_BSA_ECOG"
+    }
+  },
+  {
+    "text": "[unknown] pathology: {\"document_id\": \"PATH_CRC_SIG\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a / Gold Standard Pathological Evaluation\", \"references\": [\"Recommandations de la Société Marocaine d'Anatomie Pathologique (SMAP)\", \"Protocoles de standardisation des comptes-rendus en oncologie digestive\"], \"pathology_profiles\": [{\"cancer_type\": \"Cancer Colorectal (CCR)\", \"histological_type\": \"Adénocarcinome, type Lieberkühnien (con",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "PATH_CRC_SIG"
+    }
+  },
+  {
+    "text": "[unknown] palliative_care: {\"document_id\": \"PC_CRC_PAIN\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"National & International Palliative Care Guidelines\", \"references\": [\"Guide des Protocoles Thérapeutiques en Oncologie - BMO Framework\", \"Recommandations Nationales pour la Prise en Charge de la Douleur Cancéreuse - Société Marocaine de Soins Palliatifs (SMSP)\"], \"symptom_management_profiles\": [{\"symptom_name\": \"Douleur cancéreuse chron",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "PC_CRC_PAIN"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] definition: Prolifération tumorale maligne développée aux dépens de l'épithélium respiratoire bronchique ou bronchioloalvéolaire, regroupant sous un même terme des entités histologiques distinctes (adénocarcinomes, carcinomes épidermoïdes, carcinomes à grandes cellules) qui se différencient biologiquement et thérapeutiquement des carcinomes neuroendocrines à petites cellules. Le CPNPC représente environ 85% de l'ensemble des cancers bronchopulmonaires primitifs. Son prise en charge est profondément individu",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "CPNPC_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Vinorelbine + Cisplatine — Chimiothérapie Adjuvante (Standard) | Médicaments: [{'drug_name': 'Vinorelbine', 'dose': '25 mg/m²', 'route': 'Intraveineuse', 'frequency': 'J1 et J8, toutes les 3 semaines'}, {'drug_name': 'Cisplatine', 'dose': '80 mg/m²', 'route': 'Intraveineuse (avec hyperhydratation)', 'frequency': 'J1, toutes les 3 semaines'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Paclitaxel + Carboplatine — Chimiothérapie Adjuvante (Sujets Fragiles) | Médicaments: [{'drug_name': 'Paclitaxel', 'dose': '220 mg/m²', 'route': 'Intraveineuse (perfusion sur 3h avec prémédication antiallergique)', 'frequency': 'J1, toutes les 3 semaines'}, {'drug_name': 'Carboplatine', 'dose': 'AUC 6 (Formule de Calvert)', 'route': 'Intraveineuse (perfusion sur 30–60 min)', 'frequency': 'J1, toutes les 3 semaines'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Cisplatine + Pemetrexed — Chimiothérapie Adjuvante Non Épidermoïde | Médicaments: [{'drug_name': 'Cisplatine', 'dose': '75 mg/m²', 'route': 'Intraveineuse (avec hyperhydratation)', 'frequency': 'J1, toutes les 3 semaines'}, {'drug_name': 'Pemetrexed', 'dose': '500 mg/m²', 'route': 'Intraveineuse (perfusion sur 10 min)', 'frequency': 'J1, toutes les 3 semaines'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Osimertinib — Thérapie Ciblée Adjuvante (Mutation EGFR) | Médicaments: [{'drug_name': 'Osimertinib (Tagrisso)', 'dose': '80 mg/j', 'route': 'Per os (comprimé)', 'frequency': '1 fois par jour, en continu'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Vinorelbine + Cisplatine — Radio-chimiothérapie Concomitante (Stade III) | Médicaments: [{'drug_name': 'Vinorelbine', 'dose': '15 mg/m² (dose réduite en concomitant)', 'route': 'Intraveineuse', 'frequency': 'J1 et J8, toutes les 3 semaines'}, {'drug_name': 'Cisplatine', 'dose': '75 mg/m²', 'route': 'Intraveineuse (avec hyperhydratation)', 'frequency': 'J1, toutes les 3 semaines'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Durvalumab — Immunothérapie de Consolidation Post-RCC (Stade III) | Médicaments: [{'drug_name': 'Durvalumab (Imfinzi)', 'dose': '10 mg/kg', 'route': 'Intraveineuse (perfusion sur 60 min)', 'frequency': 'J1, toutes les 2 semaines'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Pembrolizumab — Immunothérapie en Monothérapie 1ère Ligne (PDL1 ≥ 50%) | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda)', 'dose': '200 mg', 'route': 'Intraveineuse (perfusion sur 30 min)', 'frequency': 'J1, toutes les 3 semaines (cycle Q3W) — ou 400 mg Q6W (dose plate alternative)'}]",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Carboplatine + Pemetrexed + Pembrolizumab — Chimio-immunothérapie 1ère Ligne Non Épidermoïde (KEYNOTE-189) | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda)', 'dose': '200 mg', 'route': 'Intraveineuse (perfusion sur 30 min)', 'frequency': 'J1, toutes les 3 semaines'}, {'drug_name': 'Carboplatine', 'dose': 'AUC 5 (Formule de Calvert : Dose = AUC × [DFG + 25])', 'route': 'Intraveineuse (perfusion sur 30–60 min)', 'frequency': 'J1, toutes les 3 semaines'}, {'drug_name': 'Pemetrexed",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] protocol: Protocole: Carboplatine + Paclitaxel + Pembrolizumab — Chimio-immunothérapie 1ère Ligne Épidermoïde (KEYNOTE-407) | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda)', 'dose': '200 mg', 'route': 'Intraveineuse (perfusion sur 30 min)', 'frequency': 'J1, toutes les 3 semaines'}, {'drug_name': 'Paclitaxel', 'dose': '200 mg/m² (ou nab-paclitaxel 100 mg/m² J1, J8, J15)', 'route': 'Intraveineuse (perfusion sur 3h avec prémédication)', 'frequency': 'J1, toutes les 3 semaines'}, {'drug_name': 'Carbo",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "CPNPC_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] metastasis: {\"document_id\": \"CPNPC_METASTASIS\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National & International — BMO 2024 / NCCN 2025\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"NCCN Clinical Practice Guidelines — NSCLC v4.2025 (CNS Metastases Section)\", \"organization\": \"NC",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "CPNPC_METASTASIS"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] diagnostic_guideline: {\"document_id\": \"CPNPC_DIAGNOSTIC_GUIDELINE\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National / Cadre BMO 2024\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"NCCN Guidelines — NSCLC v4.2025 (Workup Section)\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "CPNPC_DIAGNOSTIC_GUIDELINE"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] oncology_emergency: {\"document_id\": \"CPNPC_ONCOLOGY_EMERGENCY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National & International — BMO 2024\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"ESMO Clinical Practice Guidelines — Management of Cancer Emergencies 2022\", \"organization\": ",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "CPNPC_ONCOLOGY_EMERGENCY"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] followup: {\"document_id\": \"CPNPC_FOLLOWUP\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National — BMO 2024 / NCCN 2025\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"NCCN Clinical Practice Guidelines — NSCLC v4.2025 (Surveillance Section)\", \"organization\": \"NCCN\", \"year\": 2025}], \"",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "CPNPC_FOLLOWUP"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] contraindication_interaction: {\"document_id\": \"CPNPC_CONTRAINDICATION_CISPLATINE\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National & International Safety Standards — BMO 2024\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"RCP Cisplatine — Agence Nationale du Médicament (Maroc) ",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "CPNPC_CONTRAINDICATION_CISPLATINE"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] biomarker_genetics: {\"document_id\": \"CPNPC_BIOMARKER_EGFR\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National de Biologie Moléculaire — BMO 2024 / ESMO 2023\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"ESMO Scale for Clinical Actionability of Molecular Targets (ESCAT) — Targete",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "CPNPC_BIOMARKER_EGFR"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] medical_literature: {\"document_id\": \"CPNPC_MEDICAL_LITERATURE_FLAURA\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Level 1a — Essai Clinique Randomisé de Phase III Multicentrique International\", \"references\": [{\"source\": \"Soria JC, et al. Osimertinib in Untreated EGFR-Mutated Advanced NSCLC. N Engl J Med. 2018;378:113-125. DOI: 10.1056/NEJMoa1713137\", \"journal\": \"New England Journal of Medicine\", \"year\": 2018}, {\"source\": \"Ram",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "CPNPC_MEDICAL_LITERATURE_FLAURA"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] clinical_reasoning: {\"document_id\": \"CPNPC_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National & Arbre Décisionnel Algorithmique — BMO 2024\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}], \"clinical_reasoning_cases\": [{\"clinical_situation\": {\"patient_age\": 65, \"gender\": \"Fé",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "CPNPC_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] toxicity_management: {\"document_id\": \"CPNPC_TOXICITY_PNEUMOPATHIE\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus International de Gestion des Toxicités Immunothérapeutiques — ESMO 2022 / BMO 2024\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"ESMO Guidelines — Management of Toxicitie",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "CPNPC_TOXICITY_PNEUMOPATHIE"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] resistance_mechanism: {\"document_id\": \"CPNPC_RESISTANCE_MECHANISM\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National & International — BMO 2024 / ESMO 2023\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"ESMO Translational Research and Precision Medicine Working Group — EGFR Resi",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "CPNPC_RESISTANCE_MECHANISM"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] staging_system: {\"document_id\": \"CPNPC_STAGING_TNM8\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Standard International & National — IASLC TNM 8ème Édition / BMO 2024\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"IASLC Staging Manual in Thoracic Oncology, 8th Edition\", \"organization\": \"IASL",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "CPNPC_STAGING_TNM8"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] oncology_score: {\"document_id\": \"CPNPC_ONCOLOGY_SCORE_ECOG\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Standard Clinique Universel — Validé depuis 1982\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"Oken MM, et al. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "CPNPC_ONCOLOGY_SCORE_ECOG"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] pathology: {\"document_id\": \"CPNPC_PATHOLOGY\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Standard National de Compte Rendu Anatomopathologique — BMO 2024 / OMS 2021\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"WHO Classification of Thoracic Tumours, 5th Edition (Blue Book)\", \"organization\"",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "CPNPC_PATHOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer Pulmonaire Non à Petites Cellules (CPNPC)] palliative_care: {\"document_id\": \"CPNPC_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-31\", \"evidence_level\": \"Consensus National de Soins Palliatifs — BMO 2024 / ESMO 2022\", \"references\": [{\"source\": \"Guide des Protocoles Thérapeutiques en Oncologie — BMO 6ème Édition, Avril 2024\", \"organization\": \"AMFROM\", \"country\": \"Maroc\", \"year\": 2024}, {\"source\": \"ESMO Clinical Practice Guidelines — Palliative Care for Patients with Advanced Non",
+    "metadata": {
+      "cancer": "Cancer Pulmonaire Non à Petites Cellules (CPNPC)",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "CPNPC_PALLIATIVE_CARE"
+    }
+  },
+  {
+    "text": "[Cancer du sein] definition: Tumeur maligne développée aux dépens des structures épithéliales de la glande mammaire, naissant le plus souvent des canaux galactophores (carcinome canalaire infiltrant) ou des lobules (carcinome lobulaire infiltrant), caractérisée par une forte hétérogénéité biologique déterminée par l'expression immunohistochimique des récepteurs à l'œstrogène (RE), à la progestérone (RP), de l'oncoprotéine HER2 et de l'indice de prolifération Ki-67. La classification moléculaire en sous-types (Luminal A-like",
+    "metadata": {
+      "cancer": "Cancer du sein",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "BREAST_CANCER_KNOWLEDGE_"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: Cancer du sein HER2+ - Néo-adjuvant et Adjuvant (Double Blocage Anti-HER2) | Médicaments: [{'drug_name': 'Trastuzumab (Herceptin®) IV', 'dose': '8 mg/kg J1 puis 6 mg/kg', 'route': 'Intraveineux (perfusion 90 min 1er cycle, 30 min suivants)', 'frequency': 'Toutes les 3 semaines'}, {'drug_name': 'Trastuzumab SC (Herceptin®)', 'dose': '600 mg dose fixe', 'route': 'Sous-cutané', 'frequency': 'Toutes les 3 semaines'}, {'drug_name': 'Pertuzumab (Perjeta®)', 'dose': '840 mg (1er cycle) puis ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: TNBC - Néo-adjuvant avec Immunothérapie (Keynote-522 / Pembrolizumab) | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda®)', 'dose': '200 mg', 'route': 'Intraveineux (perfusion 30 min)', 'frequency': 'Toutes les 3 semaines (8 cycles néoadjuvant + 9 cycles adjuvant)'}, {'drug_name': 'Paclitaxel', 'dose': '80 mg/m² J1, J8, J15', 'route': 'Intraveineux', 'frequency': 'Toutes les 3 semaines, 4 cycles'}, {'drug_name': 'Carboplatine', 'dose': 'AUC 5 à J1 ou AUC 1,5 à J1/J8/J15', 'route'",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: Cancer du sein RE+/HER2- - Hormonothérapie Adjuvante et Chimiothérapie | Médicaments: [{'drug_name': 'Tamoxifène', 'dose': '20 mg/j', 'route': 'Oral', 'frequency': 'Quotidien 5 à 10 ans'}, {'drug_name': 'Létrozole / Anastrozole / Exémestane', 'dose': 'Létrozole 2,5 mg/j ; Anastrozole 1 mg/j ; Exémestane 25 mg/j', 'route': 'Oral', 'frequency': 'Quotidien 5 ans (postménopausées) ; prolongation à 10 ans si atteinte ganglionnaire'}, {'drug_name': 'Analogues LH-RH (Goséréline/Leuproréline)",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: Cancer du sein HER2+ Métastatique - 1ère et 2ème lignes | Médicaments: [{'drug_name': 'Pertuzumab + Trastuzumab IV', 'dose': 'Pertuzumab 840 mg puis 420 mg / Trastuzumab 8 mg/kg puis 6 mg/kg', 'route': 'Intraveineux', 'frequency': \"Toutes les 3 semaines jusqu'à progression\"}, {'drug_name': 'Docétaxel', 'dose': '75 mg/m² (C1) puis 100 mg/m² selon tolérance', 'route': 'Intraveineux', 'frequency': 'Toutes les 3 semaines, 4-8 cycles'}, {'drug_name': 'Trastuzumab Déruxtécan - T-DXd (Enhert",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] protocol: Protocole: TNBC Métastatique - 1ère ligne avec Immunothérapie (Keynote-355) | Médicaments: [{'drug_name': 'Pembrolizumab (Keytruda®)', 'dose': '200 mg', 'route': 'Intraveineux (perfusion 30 min)', 'frequency': \"Toutes les 3 semaines jusqu'à progression (max 2 ans/35 cycles)\"}, {'drug_name': 'Nab-paclitaxel (Abraxane®)', 'dose': '100 mg/m² J1, J8, J15', 'route': 'Intraveineux (sans prémédication)', 'frequency': 'Toutes les 4 semaines'}, {'drug_name': 'Paclitaxel hebdomadaire', 'dose': '90 mg/m² J",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "TP_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] metastasis: {\"document_id\": \"MET_BREAST\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (ESMO / ASCO Bone Health Guidelines)\", \"references\": [\"ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Advanced Breast Cancer, 2024\", \"Coleman R, et al. Bone health in cancer: ESMO Clinical Practice Guidelines, 2020\", \"Guide des Protocoles de Prise en Charge des Cancers, Ministère de la Santé du Maroc\"], \"",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "MET_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] diagnostic_guideline: {\"document_id\": \"DG_BREAST\", \"document_type\": \"diagnostic_guideline\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (NCCN / ESMO Consensus)\", \"references\": [\"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer Screening and Diagnosis, Version 1.2026\", \"ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Early Breast Cancer, 2024\", \"BI-RADS Atlas 5th Edition - American College of Radiology (ACR)\"], \"diagnos",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "diagnostic_guideline",
+      "subtype": "diagnostic_guideline",
+      "doc_id": "DG_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] oncology_emergency: {\"document_id\": \"EMERG_BREAST\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (ESMO / ASCO Clinical Practice Guidelines)\", \"references\": [\"ESMO Clinical Practice Guidelines: Care of the advanced cancer patient - Spinal cord compression, 2023\", \"NCCN Clinical Practice Guidelines in Oncology: Central Nervous System Cancers (Spinal Cord Compression Sections), Version 1.2026\", \"Urgences en Oncologie, Rec",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "EMERG_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] followup: {\"document_id\": \"FU_BREAST\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (NCCN / ESMO Guidelines)\", \"references\": [\"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, Version 1.2026\", \"ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Early Breast Cancer, 2024\", \"Recommandations de Surveillance post-thérapeutique, Société Marocaine de Cancérologie\"], \"followup_protocols\":",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "FU_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] contraindication_interaction: {\"document_id\": \"CI_TAM\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (FDA / EMA Standard)\", \"references\": [\"EMA Summary of Product Characteristics (SmPC) - Tamoxifen\", \"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, Version 1.2026\", \"FDA Drug Safety Communication on Tamoxifen and CYP2D6 Inhibitors\"], \"drug_safety_profiles\": [{\"drug_name\": \"Abémaciclib (Verzenio®)\", \"contra",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "CI_TAM"
+    }
+  },
+  {
+    "text": "[unknown] biomarker_genetics: {\"document_id\": \"BIO_HER2\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (ASCO / CAP Guidelines Standard)\", \"references\": [\"Wolff AC, et al. Human Epidermal Growth Factor Receptor 2 Testing in Breast Cancer: ASCO/CAP Guideline Update, 2023\", \"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, Version 1.2026\", \"ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Ear",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "BIO_HER2"
+    }
+  },
+  {
+    "text": "[unknown] medical_literature: {\"document_id\": \"LIT_BREAST\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (Phase III Randomized Controlled Trial)\", \"references\": [\"Cortes J, et al. KEYNOTE-355 Investigators. Pembrolizumab plus chemotherapy versus placebo plus chemotherapy for previously untreated locally recurrent inoperable or metastatic triple-negative breast cancer: a randomised, open-label, phase 3 study.\"], \"literature_evide",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "LIT_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] clinical_reasoning: {\"document_id\": \"CR_BREAST\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a\", \"references\": [\"Cortes J, et al. KEYNOTE-355 Trial, Lancet 2020\", \"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, Version 1.2026\", \"ESMO Clinical Practice Guidelines for Advanced Breast Cancer, 2024\"], \"clinical_reasoning_cases\": [{\"clinical_situation\": {\"patient_profile\": \"Femme de 47 ans, préménopausée, canc",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "CR_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] toxicity_management: {\"document_id\": \"TOX_BREAST\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (ASCO / ESMO Practice Guidelines)\", \"references\": [\"Loprinzi CL, et al. Prevention and Management of Chemotherapy-Induced Peripheral Neuropathy in Survivors of Adult Cancers: ASCO Guideline Update, 2020\", \"ESMO Clinical Practice Guidelines: Neurological problems in advanced cancer, 2023\", \"Thésaurus National de Gestion des T",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "TOX_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] resistance_mechanism: {\"document_id\": \"RES_BREAST\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (ESMO / NCCN Biomarker Standards)\", \"references\": [\"Turner NC, et al. ESR1 mutations and overall survival on fulvestrant versus exemestane in advanced breast cancer: a meta-analysis of PALOMA-3 and EFECT trials.\", \"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, Version 1.2026\", \"ESMO Metastatic Breast Cancer ",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "RES_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] staging_system: {\"document_id\": \"STAGE_BREAST\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (AJCC Standard Consensus)\", \"references\": [\"AJCC Cancer Staging Manual, Eighth Edition (2017) - Breast Cancer Chapter\", \"NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, Version 1.2026\"], \"staging_systems\": [{\"cancer_type\": \"Cancer du sein\", \"staging_system\": \"AJCC TNM 8ème Édition (2017, révisé 2023)\", \"system_des",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "STAGE_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] oncology_score: {\"document_id\": \"OS_CRC_BSA_ECOG\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a / Gold Standard Clinical Metric\", \"references\": [\"DuBois D, DuBois EF. A formula to estimate the approximate surface area if height and weight be known. Arch Intern Med 1916.\", \"Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol 1982.\", \"Guide des P",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "OS_CRC_BSA_ECOG"
+    }
+  },
+  {
+    "text": "[unknown] pathology: {\"document_id\": \"PATH_BREAST\", \"document_type\": \"pathology\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (WHO Classification / CAP Protocols)\", \"references\": [\"WHO Classification of Tumours: Breast Tumours, 5th Edition, 2019\", \"College of American Pathologists (CAP) Protocol for the Examination of Specimens From Patients With Carcinomas of the Breast, 2024\", \"Recommandations d'Anatomie Pathologique en Oncologie Mammaire, SMC\"], \"patholo",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "pathology",
+      "subtype": "pathology",
+      "doc_id": "PATH_BREAST"
+    }
+  },
+  {
+    "text": "[unknown] palliative_care: {\"document_id\": \"PAL_BREAST\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-05-24\", \"evidence_level\": \"Level 1a (ESMO Clinical Practice Guidelines / ASCO Consensus)\", \"references\": [\"Hui D, et al. Management of dyspnea in advanced cancer: ASCO Guideline, 2021\", \"ESMO Clinical Practice Guidelines: Palliative care and symptom control - Dyspnoea section, 2023\", \"Guide National des Soins Palliatifs et d'Accompagnement, Ministère de la Santé d",
+    "metadata": {
+      "cancer": "unknown",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "PAL_BREAST"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] definition: Le cancer gastrique (adénocarcinome gastrique) est une tumeur maligne épithéliale agressive dérivée de la muqueuse gastrique. Il présente une hétérogénéité moléculaire et clinique significative, allant des tumeurs de type intestinal bien différenciées aux tumeurs de type diffus hautement infiltrantes. La classification de Lauren, le statut HER2, le statut MSI (instabilité des microsatellites) et le score CPS PD-L1 sont essentiels pour la stratification du risque et la sélection des thérapies cib",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "cancer_knowledge",
+      "subtype": "definition",
+      "doc_id": "STOMACH_CANCER_KNOWLEDGE"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] protocol: Protocole: Tumeurs Précoces (T1a/T1b) — Résection Endoscopique ou Chirurgie Limitée | Médicaments: []",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "STOMACH_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] protocol: Protocole: Maladie Localement Avancée (Stade II-III) — Chimiothérapie Périopératoire FLOT | Médicaments: [{'drug_name': 'Fluorouracil (5-FU)', 'dose': '2600 mg/m² IV en perfusion continue sur 24 heures', 'route': 'Perfusion intraveineuse continue sur 24h (pompe portable)', 'frequency': 'Jour 1, cycle de 14 jours'}, {'drug_name': 'Leucovorin (Acide folinique)', 'dose': '200 mg/m² IV', 'route': 'Perfusion intraveineuse', 'frequency': 'Jour 1, cycle de 14 jours'}, {'drug_name': 'Oxaliplatine', 'dos",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "STOMACH_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] protocol: Protocole: Maladie Métastatique HER2-Négatif — Immunothérapie + Chimiothérapie (Nivolumab + XELOX/FOLFOX) | Médicaments: [{'drug_name': 'Nivolumab (Opdivo®)', 'dose': '360 mg IV toutes les 3 semaines (alternative : 240 mg toutes les 2 semaines)', 'route': 'Perfusion intraveineuse sur 30 minutes', 'frequency': 'Toutes les 3 semaines (360 mg) ou toutes les 2 semaines (240 mg)'}, {'drug_name': 'Oxaliplatine', 'dose': '130 mg/m² IV (XELOX) ou 85 mg/m² IV (FOLFOX)', 'route': 'Perfusion intraveineuse'",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "STOMACH_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] protocol: Protocole: Maladie Métastatique HER2-Positif — Trastuzumab + Chimiothérapie (XELOX/FOLFOX) | Médicaments: [{'drug_name': 'Trastuzumab (Herceptin®)', 'dose': '8 mg/kg IV (cycle 1), puis 6 mg/kg IV', 'route': 'Perfusion intraveineuse sur 30-90 minutes', 'frequency': 'Toutes les 3 semaines'}, {'drug_name': 'Oxaliplatine', 'dose': '130 mg/m² IV (XELOX)', 'route': 'Perfusion intraveineuse', 'frequency': 'Jour 1, cycle de 21 jours'}, {'drug_name': 'Capécitabine (Xeloda®)', 'dose': '1000 mg/m² PO deux ",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "STOMACH_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] protocol: Protocole: Deuxième Ligne — Ramucirumab + Paclitaxel | Médicaments: [{'drug_name': 'Ramucirumab (Cyramza®)', 'dose': '8 mg/kg IV', 'route': 'Perfusion intraveineuse', 'frequency': 'Jour 1, cycle de 28 jours'}, {'drug_name': 'Paclitaxel', 'dose': '80 mg/m² IV sur 1 heure', 'route': 'Perfusion intraveineuse', 'frequency': 'Jours 1, 8, 15, cycle de 28 jours'}]",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "treatment_protocol",
+      "subtype": "protocol",
+      "doc_id": "STOMACH_TREATMENT_PROTOCOLS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] metastasis: {\"document_id\": \"STOMACH_METASTASES\", \"document_type\": \"metastasis\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology - Gastric Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Japanese Gastric Cancer Treatment Guidelines 6th Edition\", \"organizatio",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "metastasis",
+      "subtype": "metastasis",
+      "doc_id": "STOMACH_METASTASES"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] oncology_emergency: {\"document_id\": \"STOMACH_EMERGENCY_ONCOLOGY\", \"document_type\": \"oncology_emergency\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Gastric Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Emergency Management in Oncology\", \"organization\": \"ASCO Educational Resources\", \"year\"",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "oncology_emergency",
+      "subtype": "oncology_emergency",
+      "doc_id": "STOMACH_EMERGENCY_ONCOLOGY"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] followup: {\"document_id\": \"STOMACH_FOLLOWUP_MONITORING\", \"document_type\": \"followup\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Gastric Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"JGCA Gastric Cancer Treatment Guidelines 6th Edition\", \"organization\": \"JGCA\", \"year\": 2023}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO\", \"year\": 2024}], \"",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "followup",
+      "subtype": "followup",
+      "doc_id": "STOMACH_FOLLOWUP_MONITORING"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] contraindication_interaction: {\"document_id\": \"STOMACH_CONTRAINDICATIONS_INTERACTIONS\", \"document_type\": \"contraindication_interaction\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"FDA Drug Safety Information\", \"organization\": \"FDA\", \"year\": 2025}, {\"source\": \"NCCN Gastric Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"Lexicomp Drug Interactions\", \"organization\": \"Wolters Kluwer\", \"year\": 2025}], \"drug_safety",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "contraindication_interaction",
+      "subtype": "contraindication_interaction",
+      "doc_id": "STOMACH_CONTRAINDICATIONS_INTERACTIONS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] biomarker_genetics: {\"document_id\": \"STOMACH_BIOMARKERS_GENETICS\", \"document_type\": \"biomarker_genetics\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Gastric Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"WHO Classification of Tumours of the Digestive System\", \"organization\": \"WHO\", \"year\": 2019}, {\"source\": \"ESMO Precision Medicine Recommendations\", \"organization\": \"ESMO\", \"year\": 2024}], \"bio",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "biomarker_genetics",
+      "subtype": "biomarker_genetics",
+      "doc_id": "STOMACH_BIOMARKERS_GENETICS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] medical_literature: {\"document_id\": \"STOMACH_MEDICAL_LITERATURE\", \"document_type\": \"medical_literature\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"PubMed\", \"organization\": \"NIH\"}, {\"source\": \"New England Journal of Medicine\", \"organization\": \"NEJM\"}, {\"source\": \"Journal of Clinical Oncology\", \"organization\": \"ASCO\"}, {\"source\": \"Lancet Oncology\", \"organization\": \"Lancet\"}, {\"source\": \"Annals of Oncology\", \"organization\": \"ESMO\"}",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "medical_literature",
+      "subtype": "medical_literature",
+      "doc_id": "STOMACH_MEDICAL_LITERATURE"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] clinical_reasoning: {\"document_id\": \"STOMACH_CLINICAL_REASONING\", \"document_type\": \"clinical_reasoning\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Gastric Cancer Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"JGCA Gastric Cancer Treatment Guidelines 6th Edition\", \"organization\": \"JGCA\", \"year\": 2023}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO\", \"year\": ",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "clinical_reasoning",
+      "subtype": "clinical_reasoning",
+      "doc_id": "STOMACH_CLINICAL_REASONING"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] toxicity_management: {\"document_id\": \"STOMACH_TOXICITY_MANAGEMENT\", \"document_type\": \"toxicity_management\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"CTCAE v5.0\", \"organization\": \"National Cancer Institute\", \"year\": 2023}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Gastric Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ES",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "toxicity_management",
+      "subtype": "toxicity_management",
+      "doc_id": "STOMACH_TOXICITY_MANAGEMENT"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] resistance_mechanism: {\"document_id\": \"STOMACH_RESISTANCE_MECHANISMS\", \"document_type\": \"resistance_mechanism\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Gastric Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"Nature Reviews Cancer — Mechanisms of Resistance i",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "resistance_mechanism",
+      "subtype": "resistance_mechanism",
+      "doc_id": "STOMACH_RESISTANCE_MECHANISMS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] staging_system: {\"document_id\": \"STOMACH_STAGING_SYSTEMS\", \"document_type\": \"staging_system\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Gastric Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"JGCA Gastric Cancer Treatment Guidelines 6th Edition\", \"organization\": \"JGCA",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "staging_system",
+      "subtype": "staging_system",
+      "doc_id": "STOMACH_STAGING_SYSTEMS"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] oncology_score: {\"document_id\": \"STOMACH_ONCOLOGY_SCORES\", \"document_type\": \"oncology_score\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"AJCC Cancer Staging Manual 8th Edition\", \"organization\": \"AJCC\", \"year\": 2018}, {\"source\": \"NCCN Clinical Practice Guidelines in Oncology — Gastric Cancer v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "oncology_score",
+      "subtype": "oncology_score",
+      "doc_id": "STOMACH_ONCOLOGY_SCORES"
+    }
+  },
+  {
+    "text": "[Cancer gastrique] palliative_care: {\"document_id\": \"STOMACH_PALLIATIVE_CARE\", \"document_type\": \"palliative_care\", \"created_by\": \"Aya_Hajar_Saloua_Douae_Ayoub\", \"last_updated\": \"2026-06-06\", \"evidence_level\": \"Élevé\", \"references\": [{\"source\": \"NCCN Palliative Care Guidelines v2.2025\", \"organization\": \"NCCN\", \"year\": 2025}, {\"source\": \"ESMO Clinical Practice Guidelines for Gastric Cancer\", \"organization\": \"ESMO\", \"year\": 2024}, {\"source\": \"WHO Guidelines on Palliative Care and Pain Management\", \"organization\": \"WHO\", \"year\": 2022}",
+    "metadata": {
+      "cancer": "Cancer gastrique",
+      "type": "palliative_care",
+      "subtype": "palliative_care",
+      "doc_id": "STOMACH_PALLIATIVE_CARE"
+    }
+  }
+]

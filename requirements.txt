@@ -1,0 +1,11 @@
+# RAG Oncologie — dépendances
+# pip install -r requirements.txt
+
+gradio>=4.0
+sentence-transformers>=2.2
+rank-bm25>=0.2
+pandas
+numpy
+scikit-learn
+torch
+transformers  # optionnel — seulement si vous activez Phi-3
